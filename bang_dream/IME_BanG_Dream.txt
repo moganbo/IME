@@ -1,5 +1,5 @@
 BOF	B.O.F	名詞	
-CIRCLING	CiRCLING	名詞	
+さーくりんぐ	CiRCLING	名詞	
 あいばあいな	相羽あいな	名詞	
 あいみ	愛美	名詞	
 あおばもか	青葉モカ	名詞	
