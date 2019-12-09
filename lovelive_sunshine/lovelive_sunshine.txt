@@ -1,4 +1,58 @@
+Amazingtraveldna	Amazing Travel DNA	名詞	
+Aqoursheroes	Aqours☆HEROES	名詞	
+Awakenthepower	Awaken the power	名詞	
+Believeagain	Believe again	名詞	
+Bravehartcoaster	Braveheart Coaster	名詞	
+Brightestmelody	Brightest Melody	名詞	
+Changeless	CHANGELESS	名詞	
+Crashmind	CRASH MIND	名詞	
+Dancewithminotaurus	Dance with Minotaurus	名詞	
+Daydreamwarrior	Daydream Warrior	名詞	
+Deepresonance	Deep Resonance	名詞	
+Dropout	DROPOUT!?	名詞	
+Galaxyhideandseek	GALAXY HidE and SeeK	名詞	
+Guiltyeyesfever	Guilty Eyes Fever	名詞	
+Guiltyfarewellparty	Guilty!? Farewell party	名詞	
+Guiltynightguiltykiss	Guilty Night, Guilty Kiss!	名詞	
+Happypartytrain	HAPPY PARTY TRAIN	名詞	
+Hopstopnonstop	Hop? Stop? Nonstop!	名詞	
+Ingitray	i-n-g, I TRY!!	名詞	
+Innocentbird	INNOCENT BIRD	名詞	
+Inthisunstableworld	in this unstable world	名詞	
+Jumpuphigh	Jump up HIGH!!	名詞	
+Kokoromagicatoz	KOKORO Magic “A to Z”	名詞	
+Landingactionyeah	Landing action Yeah!!	名詞	
+Lonelytuning	LONELY TUNING	名詞	
+Lovepulsar	Love Pulsar	名詞	
+Marineborderparasol	Marine Border Parasol	名詞	
+Miraclewave	MIRACLE WAVE	名詞	
+Miraiticket	MIRAI TICKET	名詞	
+Mylisttoyou	“MY LIST” to you!	名詞	
+Mymaitonight	MY舞☆TONIGHT	名詞	
+Newromanticsailors	New Romantic Sailors	名詞	
+Newwindingroad	New winding road	名詞	
+Nextsparkling	Next SPARKLING!!	名詞	
+No10	No.10	名詞	
+Onemoresunshinestory	One More Sunshine Story	名詞	
+Overthenextrainbow	Over The Next Rainbow	名詞	
+Phantomrocketadventure	Phantom Rocket Adventure	名詞	
+Pianofortemonologue	Pianoforte Monologue	名詞	
+Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞	
+Psのむこうがわ	P.S.の向こう側	名詞	
+Redgemwink	RED GEM WINK	名詞	
+Selfcontrol	SELF CONTROL!!	名詞	
+Shadowgatetolove	Shadow gate to love	名詞	
+Skyjourney	SKY JOURNEY	名詞	
+Stepzerotoone	Step! ZERO to ONE	名詞	
+Strawberrytrapper	Strawberry Trapper	名詞	
+Thankyoufriends	Thank you, FRIENDS!!	名詞	
+Wakeupchallenger	Wake up, Challenger!!	名詞	
+Wakuwakuweek	Waku-Waku-Week!	名詞	
+Waterbluenewworld	WATER BLUE NEW WORLD	名詞	
+Whitefirstlove	WHITE FIRST LOVE	名詞	
+Wonderfulstories	WONDERFUL STORIES	名詞	
 あいうた	愛うた	名詞	
+あいえぬじーあいとらい	i-n-g, I TRY!!	名詞	
 あいか	愛香	名	
 あいきゃん	あいきゃん	人名	
 あいだ	逢田	姓	
@@ -59,8 +113,8 @@
 きんみらいはっぴーえんど	近未来ハッピーエンド	名詞	
 きんめだい	金目鯛	名詞	
 くうちゅうれんあいろん	空中恋愛論	名詞	
-ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 ぐーりんぱ	ぐ～りんぱ	組織	
+ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 くにきだはなまる	国木田花丸	人名	
 くらっしゅまいんど	CRASH MIND	名詞	
 くろさわだいや	黒澤ダイヤ	人名	
@@ -177,6 +231,7 @@
 ふりりん	ふりりん	人名	
 ふりりんはぶんか	ふりりんは文化	名詞	
 ぶれいぶはーとこーすたー	Braveheart Coaster	名詞	
+ぼうけんたいぷえーびーしー	冒険Type A, B, C!!	名詞	
 ぼくらのはしってきたみちは	僕らの走ってきた道は…	名詞	
 ぽっぷす	pops	名詞	
 ほっぷすてっぷわーい	ホップ・ステップ・ワーイ！	名詞	
@@ -217,8 +272,8 @@
 よしこ	善子	名	
 よそくふかのうどらいびんぐ	予測不可能Driving!	名詞	
 よぞらはなんでもしってるの	夜空はなんでも知ってるの？	名詞	
-らじおかーてんこーる	ラジオカーテンコール	名詞	
 らじおかーてんこーる	Radio Curtain Call	名詞	
+らじおかーてんこーる	ラジオカーテンコール	名詞	
 らぶぱるさー	Love Pulsar	名詞	
 らめるべーゆぼやーじゅ	Le merveilleux VOYAGE	名詞	
 らんあく	ランアク	名詞	
