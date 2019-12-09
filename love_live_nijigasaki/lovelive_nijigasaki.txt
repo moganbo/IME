@@ -1,17 +1,36 @@
+Azuna	A・ZU・NA	名詞	
+Chase	CHASE!	名詞	
+Diverdiva	DiverDiva	名詞	
+Evergreen	Evergreen	名詞	
+Loveumyfriend	Love U my friends	名詞	
+Melody	MELODY	名詞	
+Myownfairytail	My Own Fairy-Tale	名詞	
+Qu4rtz	QU4RTZ	名詞	
+Starlight	Starlight	名詞	
+Tokimekirunners	TOKIMEKI Runners	名詞	
+Wish	Wish	名詞	
 あさかかりん	朝香果林	名詞	
+あずな	A・ZU・NA	名詞	
 あなたのりそうのひろいん	あなたの理想のヒロイン	名詞	
 あゆむ	歩夢	名詞	
+うぃっしゅ	Wish	名詞	
 うえはらあゆむ	上原歩夢	名詞	
 えゔぁーぐりーん	Evergreen	名詞	
 えまゔぇるで	エマ・ヴェルデ	名詞	
 おうさかしずく	桜坂しずく	名詞	
+おーどりー	オードリー	名詞	
+かいかせんげん	開花宣言	名詞	
 かなた	彼方	名詞	
 かりん	果林	名詞	
+くおーつ	QU4RTZ	名詞	
+こえつなごうよ	声繋ごうよ	名詞	
 このえかなた	近江彼方	名詞	
 すたーらいと	Starlight	名詞	
 せつな	せつ菜	名詞	
 だいあもんど	ダイアモンド	名詞	
+だいばーでぃーば	DiverDiva	名詞	
 ちぇいす	CHASE!	名詞	
+てれてれぱしー	テレテレパシー	名詞	
 てんのうじりな	天王寺璃奈	名詞	
 どきぴぽえもーしょん	ドキピポ☆エモーション	名詞	
 ときめきらんなーず	TOKIMEKI Runners	名詞	
@@ -20,8 +39,13 @@
 にじがさきがくえん	虹ヶ咲学園	名詞	
 にじがさきがくえんすくーるあいどるどうこうかい	虹ヶ咲学園スクールアイドル同好会	名詞	
 ねむれるもりにいきたいな	眠れる森に行きたいな	名詞	
+まいおうんふぇありーている	My Own Fairy-Tale	名詞	
 みやしたあい	宮下愛	名詞	
 めっちゃごーいんぐ	めっちゃGoing!!	名詞	
+めろでぃー	MELODY	名詞	
+ゆうあんどあい	友 & 愛	名詞	
 ゆうきせつな	優木せつ菜	名詞	
 ゆめへのいっぽ	夢への一歩	名詞	
+らぶゆーまいふれんど	Love U my friends	名詞	
 りな	璃奈	名詞	
+わんだーらんど	☆ワンダーランド☆	名詞	
