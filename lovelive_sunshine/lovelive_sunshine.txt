@@ -1,11 +1,13 @@
 Amazingtraveldna	Amazing Travel DNA	名詞	
 Aqoursheroes	Aqours☆HEROES	名詞	
 Awakenthepower	Awaken the power	名詞	
+Azalea	AZALEA	名詞	
 Believeagain	Believe again	名詞	
 Bravehartcoaster	Braveheart Coaster	名詞	
 Brightestmelody	Brightest Melody	名詞	
 Changeless	CHANGELESS	名詞	
 Crashmind	CRASH MIND	名詞	
+Cyaron	CYaRon!	名詞	
 Dancewithminotaurus	Dance with Minotaurus	名詞	
 Daydreamwarrior	Daydream Warrior	名詞	
 Deepresonance	Deep Resonance	名詞	
@@ -13,6 +15,7 @@ Dropout	DROPOUT!?	名詞
 Galaxyhideandseek	GALAXY HidE and SeeK	名詞	
 Guiltyeyesfever	Guilty Eyes Fever	名詞	
 Guiltyfarewellparty	Guilty!? Farewell party	名詞	
+Guiltykiss	Guilty Kiss	名詞	
 Guiltynightguiltykiss	Guilty Night, Guilty Kiss!	名詞	
 Happypartytrain	HAPPY PARTY TRAIN	名詞	
 Hopstopnonstop	Hop? Stop? Nonstop!	名詞	
