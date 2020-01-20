@@ -1,0 +1,92 @@
+@asN	after school NAVIGATORS	名詞	
+@CDCG	CheerDay CheerGirl!　	名詞	
+@CP	Cutie Panther	名詞	
+@LB	LONELIEST BABY	名詞	
+@Ltmh	Listen to my heart!!	名詞	
+@Mすた	Music S.T.A.R.T!!	名詞	
+@Pgp	Pure girls project	名詞	
+@Soml	Someday of my life	名詞	
+@ssh	sweet&sweet holiday	名詞	
+@SSS	SENTIMENTAL StepS	名詞	
+@WR	Wonderful Rush	名詞	
+@WS	WILD STARS	名詞	
+@Wz	Wonder zone	名詞	
+@ああむじょう	だってだって噫無情	名詞	
+@あいたい	愛は太陽じゃない？	名詞	
+@あいばん	愛してるばんざーい！	名詞	
+@あきそら	秋のあなたの空遠く	名詞	
+@あねもね	Anemone heart	名詞	
+@あのね	あ・の・ね・が・ん・ば・れ！	名詞	
+@ありふれ	ありふれた悲しみの果て	名詞	
+@あんばら	UNBALANCED LOVE	名詞	
+@うぃんがべー	Love wing bell	名詞	
+@えんじぇー	Beat in Angel	名詞	
+@えんぱれ	ENDLESS PARADE	名詞	
+@おとめしき	乙女式れんあい塾	名詞	
+@おなほし	同じ星が見たい	名詞	
+@かぐや	輝夜の城で踊りたい	名詞	
+@からぼ	COLORFUL VOICE	名詞	
+@きみくせ	キミのくせに！	名詞	
+@きらせん	KiRa-KiRa Sensation!	名詞	
+@くるりん	くるりんMIRACLE	名詞	
+@こいぼた	baby maybe 恋のボタン	名詞	
+@こくはくびより	告白日和、です！	名詞	
+@これさむ	これからのSomeday	名詞	
+@さいれん	silent tonight	名詞	
+@さむらい	Someday of my life	名詞	
+@しあわせ	シアワセ行きのSMILING!	名詞	
+@じしゃく	ずるいよMagnetic today	名詞	
+@しゃんしゃわ	Shangri-La Shower	名詞	
+@じゅんあい	純愛レンズ	名詞	
+@しららら	知らないLove*教えてLove	名詞	
+@すきすき	好きですが好きですか？	名詞	
+@すすめ	ススメ→トゥモロウ	名詞	
+@すただ	START:DASH!!	名詞	
+@ずっとも	永遠フレンズ	名詞	
+@すとらば	Storm in Lover	名詞	
+@すのはれ	Snow halation	名詞	
+@すぴか	スピカテリブル	名詞	
+@せいしゅん	きっと青春が聞こえる	名詞	
+@そしぺ	そして最後のページには	名詞	
+@そるげ	soldier game	名詞	
+@それぼく	それは僕たちの奇跡	名詞	
+@だいぷり	ダイヤモンドプリンセスの憂鬱	名詞	
+@だんすた	Dancing stars on me!	名詞	
+@とらばす	Trouble Busters	名詞	
+@どんとき	どんなときもずっと	名詞	
+@ないちんげーる	小夜啼鳥恋詩	名詞	
+@なついろ	夏色えがおで1,2,Jump!	名詞	
+@なつおわ	夏、終わらないで。	名詞	
+@にこぷり	にこぷり女子道	名詞	
+@のーちぇん	友情ノーチェンジ	名詞	
+@のーぶら	No brand girls	名詞	
+@はなぞの	硝子の花園	名詞	
+@はぴねす	ふたりハピネス	名詞	
+@はぴめ	Happy maker!	名詞	
+@ぱららい	Paradise Live	名詞	
+@びねつ	微熱からMystery	名詞	
+@ふゆくれ	冬がくれた予感	名詞	
+@ぶるとれ	ぶる〜べりぃ♥とれいん	名詞	
+@ぶるべり	ぶる〜べりぃ♥とれいん	名詞	
+@ぷわぷわ	ぷわぷわーお！	名詞	
+@へぶん	孤独なHeaven	名詞	
+@ぼくいま	僕らは今のなかで	名詞	
+@ぼららら	僕らのLIVE 君とのLIFE	名詞	
+@まほうつかい	まほうつかいはじめました！	名詞	
+@まめふぇす1	Mermaid festa vol.1	名詞	
+@まめふぇす2	Mermaid festa vol.2 〜Passionate〜	名詞	
+@もうない	もうひとりじゃないよ	名詞	
+@もぎゅっと	もぎゅっと“love”で接近中！	名詞	
+@もしから	もしもからきっと	名詞	
+@ものず	タカラモノズ	名詞	
+@ゆうき	勇気のReason	名詞	
+@ゆめとび	ユメノトビラ	名詞	
+@ゆめゆめゆめ	夢なき夢は夢じゃない	名詞	
+@らぶのべ	ラブノベルス	名詞	
+@らぶぴ	Oh,Love&Peace!	名詞	
+@らぶまじ	Love marginal	名詞	
+@らぶれす	LOVELESS WORLD	名詞	
+@りんがべー	恋のシグナル Rin rin rin!	名詞	
+@るてし	るてしキスキしてる	名詞	
+@わたはな	私たちは未来の花	名詞	
+@わちゃどぅー	Private Wars	名詞	
