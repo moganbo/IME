@@ -1,5 +1,6 @@
 Amazingtraveldna	Amazing Travel DNA	名詞	
 Aqoursheroes	Aqours☆HEROES	名詞	
+Aqourspiratesdesire	Aqours Pirates Desire	名詞	
 Awakenthepower	Awaken the power	名詞	
 Azalea	AZALEA	名詞	
 Believeagain	Believe again	名詞	
@@ -12,6 +13,7 @@ Dancewithminotaurus	Dance with Minotaurus	名詞
 Daydreamwarrior	Daydream Warrior	名詞	
 Deepresonance	Deep Resonance	名詞	
 Dropout	DROPOUT!?	名詞	
+Fantasticdepature	Fantastic Departure!	名詞	
 Galaxyhideandseek	GALAXY HidE and SeeK	名詞	
 Guiltyeyesfever	Guilty Eyes Fever	名詞	
 Guiltyfarewellparty	Guilty!? Farewell party	名詞	
@@ -69,6 +71,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 あくあ	Aqours	組織	
 あくあうらのほしじょがくいんらじお	Aqours浦の星女学院RADIO!!!	名詞	
 あくあくらぶ	AqoursCLUB	名詞	
+あくあぱいれーつでざいあ	Aqours Pirates Desire	名詞	
 あくあひーろーず	Aqours☆HEROES	名詞	
 あぜりあ	AZALEA	組織	
 あめいじんぐとらべるでぃーえぬえー	Amazing Travel DNA	名詞	
@@ -228,6 +231,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 びぎなーずせーりんぐ	Beginner's Sailing	名詞	
 びりーぶあげいん	Believe again	名詞	
 ふぁみりあ	Familiar	組織	
+ふぁんたすてぃっくでぱーちゃー	Fantastic Departure!	名詞	
 ふぁんとむろけっとあどべんちゃー	Phantom Rocket Adventure	名詞	
 ぶらいてすとめろでぃー	Brightest Melody	名詞	
 ふりはたあい	降幡愛	人名	
