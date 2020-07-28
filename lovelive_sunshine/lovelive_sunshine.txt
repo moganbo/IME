@@ -24,6 +24,7 @@ Hopstopnonstop	Hop? Stop? Nonstop!	名詞
 Ingitray	i-n-g, I TRY!!	名詞	
 Innocentbird	INNOCENT BIRD	名詞	
 Inthisunstableworld	in this unstable world	名詞	
+Jimoaidash	JIMO-AI Dash!	名詞	
 Jumpuphigh	Jump up HIGH!!	名詞	
 Kokoromagicatoz	KOKORO Magic “A to Z”	名詞	
 Landingactionyeah	Landing action Yeah!!	名詞	
@@ -34,6 +35,7 @@ Miraclewave	MIRACLE WAVE	名詞
 Miraiticket	MIRAI TICKET	名詞	
 Mylisttoyou	“MY LIST” to you!	名詞	
 Mymaitonight	MY舞☆TONIGHT	名詞	
+Nevergivingup	Never giving up!	名詞	
 Newromanticsailors	New Romantic Sailors	名詞	
 Newwindingroad	New winding road	名詞	
 Nextsparkling	Next SPARKLING!!	名詞	
@@ -144,6 +146,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 じーでれら	Gデレラ	名詞	
 しまねぇ	志満ねぇ	人名	
 じもあい	地元愛	名詞	
+じもあいだっしゅ	JIMO-AI Dash!	名詞	
 じもあいまんたんさまーらいふ	地元愛♡満タン☆サマーライフ	名詞	
 じゃーにーとぅざさんしゃいん	Journey to the Sunshine	名詞	
 しゃどうげいととぅらぶ	Shadow gate to love	名詞	
@@ -217,6 +220,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 にゅーろまんてぃっくせいらーず	New Romantic Sailors	名詞	
 にゅーわいんでぃんぐろーど	New winding road	名詞	
 ねくすとすぱーくりんぐ	Next SPARKLING!!	名詞	
+ねばーぎびんぐあっぷ	Never giving up!	名詞	
 はじまりろーど	ハジマリロード	名詞	
 はっぴーぱーてぃーとれいん	HAPPY PARTY TRAIN	名詞	
 はなまる	花丸	名	
