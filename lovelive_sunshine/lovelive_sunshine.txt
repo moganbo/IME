@@ -1,3 +1,4 @@
+Aftertherain	After The Rain	名詞	
 Amazingtraveldna	Amazing Travel DNA	名詞	
 Aqoursheroes	Aqours☆HEROES	名詞	
 Aqourspiratesdesire	Aqours Pirates Desire	名詞	
@@ -11,6 +12,7 @@ Crashmind	CRASH MIND	名詞
 Cyaron	CYaRon!	名詞	
 Dancewithminotaurus	Dance with Minotaurus	名詞	
 Daydreamwarrior	Daydream Warrior	名詞	
+Dazzkungwhitetown	Dazzling White Town	名詞	
 Deepresonance	Deep Resonance	名詞	
 Dropout	DROPOUT!?	名詞	
 Fantasticdepature	Fantastic Departure!	名詞	
@@ -28,6 +30,7 @@ Jimoaidash	JIMO-AI Dash!	名詞
 Jumpuphigh	Jump up HIGH!!	名詞	
 Kokoromagicatoz	KOKORO Magic “A to Z”	名詞	
 Landingactionyeah	Landing action Yeah!!	名詞	
+Lonelysnowplanet	Lonely Snow Planet	名詞	
 Lonelytuning	LONELY TUNING	名詞	
 Lovepulsar	Love Pulsar	名詞	
 Marineborderparasol	Marine Border Parasol	名詞	
@@ -76,6 +79,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 あくあぱいれーつでざいあ	Aqours Pirates Desire	名詞	
 あくあひーろーず	Aqours☆HEROES	名詞	
 あぜりあ	AZALEA	組織	
+あふたーざれいん	After The Rain	名詞	
 あめいじんぐとらべるでぃーえぬえー	Amazing Travel DNA	名詞	
 ありさ	有紗	名	
 ありしゃ	ありしゃ	人名	
@@ -192,6 +196,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 たかみしま	高海志満	人名	
 たかみちか	高海千歌	人名	
 たかみみと	高海美渡	人名	
+だずりんぐほわいとたうん	Dazzling White Town	名詞	
 だだだ	ダだダ	名詞	
 だんすういずみのたうろす	Dance with Minotaurus	名詞	
 ちぇんじれす	CHANGELESS	名詞	
@@ -294,6 +299,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 りきゃこ	りきゃこ	人名	
 りこ	梨子	名	
 れっどじぇむうぃんく	RED GEM WINK	名詞	
+ろんりーすのーぷらねっと	Lonely Snow Planet	名詞	
 ろんりーちゅーにんぐ	LONELY TUNING	名詞	
 わくわくうぃーく	Waku-Waku-Week!	名詞	
 わたなべつき	渡辺月	人名	
