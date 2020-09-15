@@ -1,10 +1,14 @@
 Azuna	A・ZU・NA	名詞	
+Beautifulmoonlight	Beautiful Moonlight	名詞	
 Chase	CHASE!	名詞	
+Cheerforyou	Cheer for you!!	名詞	
 Diverdiva	DiverDiva	名詞	
+Dreamlanddreamworld	Dream Land！Dream World！	名詞	
 Evergreen	Evergreen	名詞	
 Firebird	Fire Bird	名詞	
 Justbelieve	Just Believe!!!	名詞	
 Likeitloveit	LIKE IT！LOVE IT！	名詞	
+Lovetriangle	Love Triangle	名詞	
 Loveumyfriend	Love U my friends	名詞	
 Marchenstar	Märchen Star	名詞	
 Margaret	Margaret	名詞	
@@ -12,7 +16,9 @@ Melody	MELODY	名詞
 Myownfairytail	My Own Fairy-Tale	名詞	
 Qu4rtz	QU4RTZ	名詞	
 Saygoodbyなみだ	Say Good-Bye 涙	名詞	
+Singandsmile	Sing & Smile!!	名詞	
 Starlight	Starlight	名詞	
+Supernova	SUPER NOVA	名詞	
 Tokimekirunners	TOKIMEKI Runners	名詞	
 Wish	Wish	名詞	
 あいおんのうた	哀温ノ詩	名詞	
@@ -36,6 +42,8 @@ Wish	Wish	名詞
 このえかなた	近江彼方	名詞	
 しおりこ	栞子	名詞	
 じゃすとびりーぶ	Just Believe!!!	名詞	
+しんぐあんどすまいる	Sing & Smile!!	名詞	
+すーぱーのゔぁ	SUPER NOVA	名詞	
 すたーらいと	Starlight	名詞	
 せいぐっばいなみだ	Say Good-Bye 涙	名詞	
 せつな	せつ菜	名詞	
@@ -43,16 +51,19 @@ Wish	Wish	名詞
 だいばーでぃーば	DiverDiva	名詞	
 たかさきゆう	高咲侑	名詞	
 たのしいのてんさい	楽しいの天才	名詞	
+ちあふぉーゆー	Cheer for you!!	名詞	
 ちぇいす	CHASE!	名詞	
 てれてれぱしー	テレテレパシー	名詞	
 てんのうじりな	天王寺璃奈	名詞	
 どきぴぽえもーしょん	ドキピポ☆エモーション	名詞	
 ときめきらんなーず	TOKIMEKI Runners	名詞	
+どりーむらんどどりーむわーるど	Dream Land！Dream World！	名詞	
 なかすかすみ	中須かすみ	名詞	
 にじがさき	虹ヶ咲	名詞	
 にじがさきがくえん	虹ヶ咲学園	名詞	
 にじがさきがくえんすくーるあいどるどうこうかい	虹ヶ咲学園スクールアイドル同好会	名詞	
 ねむれるもりにいきたいな	眠れる森に行きたいな	名詞	
+びゅーてぃふるむーんらいと	Beautiful Moonlight	名詞	
 ふぁいあばーど	Fire Bird	名詞	
 まーがれっと	Margaret	名詞	
 まいおうんふぇありーている	My Own Fairy-Tale	名詞	
@@ -69,6 +80,7 @@ Wish	Wish	名詞
 ゆうきせつな	優木せつ菜	名詞	
 ゆめへのいっぽ	夢への一歩	名詞	
 らいくいっとらぶいっと	LIKE IT！LOVE IT！	名詞	
+らぶとらいあんぐる	Love Triangle	名詞	
 らぶゆーまいふれんど	Love U my friends	名詞	
 りな	璃奈	名詞	
 わんだーらんど	☆ワンダーランド☆	名詞	
