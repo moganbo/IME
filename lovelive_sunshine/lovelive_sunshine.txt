@@ -49,6 +49,7 @@ Phantomrocketadventure	Phantom Rocket Adventure	名詞
 Pianofortemonologue	Pianoforte Monologue	名詞	
 Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞	
 Psのむこうがわ	P.S.の向こう側	名詞	
+Purephrase	PURE PHRASE	名詞	
 Redgemwink	RED GEM WINK	名詞	
 Selfcontrol	SELF CONTROL!!	名詞	
 Shadowgatetolove	Shadow gate to love	名詞	
@@ -125,8 +126,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 きんみらいはっぴーえんど	近未来ハッピーエンド	名詞	
 きんめだい	金目鯛	名詞	
 くうちゅうれんあいろん	空中恋愛論	名詞	
-ぐーりんぱ	ぐ～りんぱ	組織	
 ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
+ぐーりんぱ	ぐ～りんぱ	組織	
 くにきだはなまる	国木田花丸	人名	
 くらっしゅまいんど	CRASH MIND	名詞	
 くろさわだいや	黒澤ダイヤ	人名	
@@ -135,7 +136,9 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 こいあく	恋アク	名詞	
 こいになりたいあくありうむ	恋になりたいAQUARIUM	名詞	
 こころまじっくえーとぅずぃー	KOKORO Magic "A to Z"	名詞	
+こっとんきゃんでぃえいえいおー	コットンキャンディえいえいおー！	名詞	
 こどくてれぽーと	コドク・テレポート	名詞	
+こばやしあいか	小林愛香	名詞	
 こばやしあいか	小林愛香	人名	
 こばやしあいかのこうかいりはーさる	小林愛香の「公開リハーサル」	名詞	
 こみやありさ	小宮有紗	人名	
@@ -238,6 +241,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ぴあのふぉるてものろーぐ	Pianoforte Monologue	名詞	
 ぴーえすのむこうがわ	P.S.の向こう側	名詞	
 びぎなーずせーりんぐ	Beginner's Sailing	名詞	
+ぴゅあふれーず	PURE PHRASE	名詞	
 びりーぶあげいん	Believe again	名詞	
 ふぁみりあ	Familiar	組織	
 ふぁんたすてぃっくでぱーちゃー	Fantastic Departure!	名詞	
@@ -288,8 +292,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 よしこ	善子	名	
 よそくふかのうどらいびんぐ	予測不可能Driving!	名詞	
 よぞらはなんでもしってるの	夜空はなんでも知ってるの？	名詞	
-らじおかーてんこーる	Radio Curtain Call	名詞	
 らじおかーてんこーる	ラジオカーテンコール	名詞	
+らじおかーてんこーる	Radio Curtain Call	名詞	
 らぶぱるさー	Love Pulsar	名詞	
 らめるべーゆぼやーじゅ	Le merveilleux VOYAGE	名詞	
 らんあく	ランアク	名詞	
