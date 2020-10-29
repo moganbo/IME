@@ -111,6 +111,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 かなことさらら	かなことさらら	名詞	
 かなさら	かなさら	名詞	
 かなん	果南	名	
+かなん	🐬	名詞	
 きせきひかる	キセキヒカル	名詞	
 きみここ	君ここ	名詞	
 きみのこころはかがやいているかい	君のこころは輝いてるかい?	名詞	
@@ -126,8 +127,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 きんみらいはっぴーえんど	近未来ハッピーエンド	名詞	
 きんめだい	金目鯛	名詞	
 くうちゅうれんあいろん	空中恋愛論	名詞	
-ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 ぐーりんぱ	ぐ～りんぱ	組織	
+ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 くにきだはなまる	国木田花丸	人名	
 くらっしゅまいんど	CRASH MIND	名詞	
 くろさわだいや	黒澤ダイヤ	人名	
@@ -138,7 +139,6 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 こころまじっくえーとぅずぃー	KOKORO Magic "A to Z"	名詞	
 こっとんきゃんでぃえいえいおー	コットンキャンディえいえいおー！	名詞	
 こどくてれぽーと	コドク・テレポート	名詞	
-こばやしあいか	小林愛香	名詞	
 こばやしあいか	小林愛香	人名	
 こばやしあいかのこうかいりはーさる	小林愛香の「公開リハーサル」	名詞	
 こみやありさ	小宮有紗	人名	
@@ -193,6 +193,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 そらこころはれ	空心晴	名詞	
 そらもこころもはれるから	空も心も晴れるから	名詞	
 だいすきだったらだいじょうぶ	ダイスキだったらダイジョウブ！	名詞	
+だいや	💎	名詞	
 たいようをおいかけろ	太陽を追いかけろ！	名詞	
 たうんらじお	たうんRadio	名詞	
 たかつきかなこ	高槻かなこ	人名	
@@ -204,6 +205,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 だんすういずみのたうろす	Dance with Minotaurus	名詞	
 ちぇんじれす	CHANGELESS	名詞	
 ちか	千歌	名	
+ちか	🍊	名詞	
 つき	月	名	
 つしまよしこ	津島善子	人名	
 でぃーぷれぞなんす	Deep Resonance	名詞	
@@ -232,6 +234,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 はじまりろーど	ハジマリロード	名詞	
 はっぴーぱーてぃーとれいん	HAPPY PARTY TRAIN	名詞	
 はなまる	花丸	名	
+はなまる	💮	名詞	
 はには	ハニハ	名詞	
 はみふれ	ハミフレ	名詞	
 はみんぐふれんど	ハミングフレンド	名詞	
@@ -266,6 +269,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 まっててあいのうた	待ってて愛のうた	名詞	
 まなつはだれのもの	真夏は誰のモノ？	名詞	
 まり	鞠莉	名	
+まり	✨	名詞	
 まりんぼーだーぱらそる	Marine Border Parasol	名詞	
 まるご	まるご	名詞	
 まるごとりかこ	まるごとりかこ	名詞	
@@ -289,11 +293,13 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ゆめゆめ	ユメユメ	名詞	
 ゆめよぞら	夢夜空	名詞	
 よう	曜	名	
+よう	⚓	名詞	
 よしこ	善子	名	
+よしこ	👿	名詞	
 よそくふかのうどらいびんぐ	予測不可能Driving!	名詞	
 よぞらはなんでもしってるの	夜空はなんでも知ってるの？	名詞	
-らじおかーてんこーる	ラジオカーテンコール	名詞	
 らじおかーてんこーる	Radio Curtain Call	名詞	
+らじおかーてんこーる	ラジオカーテンコール	名詞	
 らぶぱるさー	Love Pulsar	名詞	
 らめるべーゆぼやーじゅ	Le merveilleux VOYAGE	名詞	
 らんあく	ランアク	名詞	
@@ -302,6 +308,9 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 りかこ	梨香子	名	
 りきゃこ	りきゃこ	人名	
 りこ	梨子	名	
+りこ	🌸	名詞	
+りこ	🎹	名詞	
+るびぃ	🍭	名詞	
 れっどじぇむうぃんく	RED GEM WINK	名詞	
 ろんりーすのーぷらねっと	Lonely Snow Planet	名詞	
 ろんりーちゅーにんぐ	LONELY TUNING	名詞	
