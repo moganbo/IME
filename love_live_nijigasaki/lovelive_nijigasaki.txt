@@ -9,6 +9,7 @@ Dreamwithyou	Dream with You	名詞
 Evergreen	Evergreen	名詞	
 Firebird	Fire Bird	名詞	
 Justbelieve	Just Believe!!!	名詞	
+Labellapatria	La Bella Patria	名詞	
 Likeitloveit	LIKE IT！LOVE IT！	名詞	
 Lovetriangle	Love Triangle	名詞	
 Loveumyfriend	Love U my friends	名詞	
@@ -94,5 +95,6 @@ Wish	Wish	名詞
 らいくいっとらぶいっと	LIKE IT！LOVE IT！	名詞	
 らぶとらいあんぐる	Love Triangle	名詞	
 らぶゆーまいふれんど	Love U my friends	名詞	
+らべっらぱとりあ	La Bella Patria	名詞	
 りな	璃奈	名詞	
 わんだーらんど	☆ワンダーランド☆	名詞	
