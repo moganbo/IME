@@ -36,6 +36,7 @@ Lovepulsar	Love Pulsar	名詞
 Marineborderparasol	Marine Border Parasol	名詞	
 Miraclewave	MIRACLE WAVE	名詞	
 Miraiticket	MIRAI TICKET	名詞	
+Mistyfrostylove	Misty Frosty Love	名詞	
 Mylisttoyou	“MY LIST” to you!	名詞	
 Mymaitonight	MY舞☆TONIGHT	名詞	
 Nevergivingup	Never giving up!	名詞	
@@ -45,6 +46,7 @@ Nextsparkling	Next SPARKLING!!	名詞
 No10	No.10	名詞	
 Onemoresunshinestory	One More Sunshine Story	名詞	
 Overthenextrainbow	Over The Next Rainbow	名詞	
+Partypartypapapaparty	Party! Party! PaPaPaParty!	名詞	
 Phantomrocketadventure	Phantom Rocket Adventure	名詞	
 Pianofortemonologue	Pianoforte Monologue	名詞	
 Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞	
@@ -116,6 +118,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 きみここ	君ここ	名詞	
 きみのこころはかがやいているかい	君のこころは輝いてるかい?	名詞	
 きめたよはんどいんはんど	決めたよHand in Hand	名詞	
+きもちもゆめもいっしょだね	キモチもユメも一緒だね！	名詞	
 ぎゃらくしーはいどあんどしーく	GALAXY HidE and SeeK	名詞	
 ぎるてぃあいずふぃーばー	Guilty Eyes Fever	名詞	
 ぎるてぃきす	Guilty Kiss	組織	
@@ -156,6 +159,17 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 じもあいだっしゅ	JIMO-AI Dash!	名詞	
 じもあいまんたんさまーらいふ	地元愛♡満タン☆サマーライフ	名詞	
 じゃーにーとぅざさんしゃいん	Journey to the Sunshine	名詞	
+しゃぜきすいえろー	シャゼキス☆イエロー	名詞	
+しゃぜきすゔぁいおれっと	シャゼキス☆ヴァイオレット	名詞	
+しゃぜきすえめらるど	シャゼキス☆エメラルド	名詞	
+しゃぜきすさくら	シャゼキス☆桜	名詞	
+しゃぜきすぴんく	シャゼキス☆ピンク	名詞	
+しゃぜきすぶらっく	シャゼキス☆ブラック	名詞	
+しゃぜきすみかん	シャゼキス☆みかん	名詞	
+しゃぜきすらいとぶるー	シャゼキス☆ライトブルー	名詞	
+しゃぜきすれっど	シャゼキス☆レッド	名詞	
+しゃぜりあきっす	シャゼリア☆キッス	名詞	
+しゃぜりあきっすだだんだーん	シャゼリア☆キッス☆ダダンダーン	名詞	
 しゃどうげいととぅらぶ	Shadow gate to love	名詞	
 しゃどげ	シャドゲ	名詞	
 しゃろとも	しゃろとも	組織	
@@ -226,11 +240,13 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 なつのおわりのあまおとが	夏の終わりの雨音が	名詞	
 なつへのとびら	夏への扉	名詞	
 なつへのとびらねばーえんどさまー	夏への扉 Never end ver.	名詞	
+なみだがゆきになるまえに	涙が雪になる前に	名詞	
 なんばーてん	No.10	名詞	
 にゅーろまんてぃっくせいらーず	New Romantic Sailors	名詞	
 にゅーわいんでぃんぐろーど	New winding road	名詞	
 ねくすとすぱーくりんぐ	Next SPARKLING!!	名詞	
 ねばーぎびんぐあっぷ	Never giving up!	名詞	
+ぱーてぃぱーてぃぱぱぱぱーてぃ	Party! Party! PaPaPaParty!	名詞	
 はじまりろーど	ハジマリロード	名詞	
 はっぴーぱーてぃーとれいん	HAPPY PARTY TRAIN	名詞	
 はなまる	花丸	名	
@@ -274,6 +290,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 まるご	まるご	名詞	
 まるごとりかこ	まるごとりかこ	名詞	
 みじゅくどりーまー	未熟DREAMER	名詞	
+みすてぃふりろすてぃらぶ	Misty Frosty Love	名詞	
 みたいけんほらいぞん	未体験HORIZON	名詞	
 みとねぇ	美渡ねぇ	人名	
 みどり	未ドリ	名詞	
