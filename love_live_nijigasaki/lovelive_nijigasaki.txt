@@ -23,10 +23,12 @@ Poppinup	Poppin' Up!	名詞
 Qu4rtz	QU4RTZ	名詞	
 Saygoodbyなみだ	Say Good-Bye 涙	名詞	
 Singandsmile	Sing & Smile!!	名詞	
+Solituderain	Solitude Rain	名詞	
 Starlight	Starlight	名詞	
 Supernova	SUPER NOVA	名詞	
 Sweeteyes	Sweet Eyes	名詞	
 Tokimekirunners	TOKIMEKI Runners	名詞	
+Vividworld	VIVID WORLD	名詞	
 Wish	Wish	名詞	
 あいおんのうた	哀温ノ詩	名詞	
 あさかかりん	朝香果林	名詞	
@@ -57,6 +59,7 @@ Wish	Wish	名詞
 せいぐっばいなみだ	Say Good-Bye 涙	名詞	
 せつな	せつ菜	名詞	
 ぜんそくどりーまー	全速ドリーマー	名詞	
+そりちゅーどれいん	Solitude Rain	名詞	
 だいあもんど	ダイアモンド	名詞	
 だいばーでぃーば	DiverDiva	名詞	
 だいぶ	DIVE！	名詞	
@@ -81,6 +84,7 @@ Wish	Wish	名詞
 ばたふらい	Butterfly	名詞	
 ひとりだけなんてえらべないよー	ヒトリダケナンテエラベナイヨー	名詞	
 ひとりだけなんてえらべないよー	ﾋﾄﾘﾀﾞｹﾅﾝﾃｴﾗﾍﾞﾅｲﾖｰ	名詞	
+びびっどわーるど	VIVID WORLD	名詞	
 びゅーてぃふるむーんらいと	Beautiful Moonlight	名詞	
 ふぁいあばーど	Fire Bird	名詞	
 ぽっぴんあっぷ	Poppin' Up!	名詞	
