@@ -16,6 +16,7 @@ Dazzkungwhitetown	Dazzling White Town	名詞
 Deepresonance	Deep Resonance	名詞	
 Dropout	DROPOUT!?	名詞	
 Fantasticdepature	Fantastic Departure!	名詞	
+Futureflight	Future flight	名詞	
 Galaxyhideandseek	GALAXY HidE and SeeK	名詞	
 Guiltyeyesfever	Guilty Eyes Fever	名詞	
 Guiltyfarewellparty	Guilty!? Farewell party	名詞	
@@ -47,6 +48,7 @@ No10	No.10	名詞
 Onemoresunshinestory	One More Sunshine Story	名詞	
 Overthenextrainbow	Over The Next Rainbow	名詞	
 Partypartypapapaparty	Party! Party! PaPaPaParty!	名詞	
+Perfectsekai	Perfect SEKAI	名詞	
 Phantomrocketadventure	Phantom Rocket Adventure	名詞	
 Pianofortemonologue	Pianoforte Monologue	名詞	
 Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞	
@@ -56,6 +58,7 @@ Redgemwink	RED GEM WINK	名詞
 Selfcontrol	SELF CONTROL!!	名詞	
 Shadowgatetolove	Shadow gate to love	名詞	
 Skyjourney	SKY JOURNEY	名詞	
+Smilesmileshipstart	smile smile ship Start!	名詞	
 Stepzerotoone	Step! ZERO to ONE	名詞	
 Strawberrytrapper	Strawberry Trapper	名詞	
 Thankyoufriends	Thank you, FRIENDS!!	名詞	
@@ -81,14 +84,13 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 あくあくらぶ	AqoursCLUB	名詞	
 あくあぱいれーつでざいあ	Aqours Pirates Desire	名詞	
 あくあひーろーず	Aqours☆HEROES	名詞	
+あこがれらんららん	あこがれランララン	名詞	
 あぜりあ	AZALEA	組織	
 あふたーざれいん	After The Rain	名詞	
 あめいじんぐとらべるでぃーえぬえー	Amazing Travel DNA	名詞	
 ありさ	有紗	名	
 ありしゃ	ありしゃ	人名	
 あんじゅ	杏樹	名	
-あんすーるえとわーる	An seule étoile	名詞	
-あんすーるえとわーるりとむでて	An seule étoile ～Rythme d'été～	名詞	
 あんちゃん	あんちゃん	人名	
 いなみあんじゅ	伊波杏樹	人名	
 いなみあんじゅのらじおかーてんこーる	伊波杏樹のRadio Curtain Call	名詞	
@@ -139,6 +141,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 げんきぜんかいでいでいでい	元気全開DAY！DAY！DAY！	名詞	
 こいあく	恋アク	名詞	
 こいになりたいあくありうむ	恋になりたいAQUARIUM	名詞	
+こころのはねよきみへとんでけ	心の羽よ君へ飛んでけ!	名詞	
 こころまじっくえーとぅずぃー	KOKORO Magic "A to Z"	名詞	
 こっとんきゃんでぃえいえいおー	コットンキャンディえいえいおー！	名詞	
 こどくてれぽーと	コドク・テレポート	名詞	
@@ -183,12 +186,12 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 しょうじょいじょうのこいがしたい	少女以上の恋がしたい	名詞	
 しょうじょこい	少女恋	名詞	
 じんぐるべるがとまらない	ジングルベルがとまらない	名詞	
-すーぱーぷーぼあ	Super-pouvoir	名詞	
 すかいじゃーにー	SKY JOURNEY	名詞	
 すずきあいな	鈴木愛奈	人名	
 すてっぷぜろとぅわん	Step! ZERO to ONE	名詞	
 すととら	ストトラ	名詞	
 すとろべりーとらっぱー	Strawberry Trapper	名詞	
+すまいるすまいるしっぷすたーと	smile smile ship Start!	名詞	
 すりりんぐわんうぇい	スリリング・ワンウェイ	名詞	
 すりわん	スリワン	名詞	
 すわななか	諏訪ななか	人名	
@@ -228,6 +231,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 でいどりーむうぉーりあ	Daydream Warrior	名詞	
 とうそうめいそうめびうするーぷ	逃走迷走メビウスループ	名詞	
 ときめきぶんるいがく	ときめき分類学	名詞	
+とつぜんがーる	突然GIRL	名詞	
 とどかないほしだとしても	届かない星だとしても	名詞	
 とどほし	届星	名詞	
 とりこびと	トリコビト	組織	
@@ -247,6 +251,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ねくすとすぱーくりんぐ	Next SPARKLING!!	名詞	
 ねばーぎびんぐあっぷ	Never giving up!	名詞	
 ぱーてぃぱーてぃぱぱぱぱーてぃ	Party! Party! PaPaPaParty!	名詞	
+ぱーふぇくとせかい	Perfect SEKAI	名詞	
 はじまりろーど	ハジマリロード	名詞	
 はっぴーぱーてぃーとれいん	HAPPY PARTY TRAIN	名詞	
 はなまる	花丸	名	
@@ -265,6 +270,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ふぁみりあ	Familiar	組織	
 ふぁんたすてぃっくでぱーちゃー	Fantastic Departure!	名詞	
 ふぁんとむろけっとあどべんちゃー	Phantom Rocket Adventure	名詞	
+ふゅーちゃーふらいと	Future flight	名詞	
 ぶらいてすとめろでぃー	Brightest Melody	名詞	
 ふりはたあい	降幡愛	人名	
 ふりりん	ふりりん	人名	
@@ -301,6 +307,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 みらぼく	未来僕	名詞	
 めいずせかい	メイズセカイ	名詞	
 もぐこみ	モグコミ	名詞	
+もっとね	もっとね!	名詞	
 ゆうきはどこにきみのむねに	勇気はどこに?君の胸に!	名詞	
 ゆうきみ	勇気君	名詞	
 ゆにこーんぶりざーど	ユニコーンブリザード	組織	
