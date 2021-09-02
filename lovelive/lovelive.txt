@@ -1,5 +1,6 @@
 AsongforYouYouYou	A song for You! You? You!!	名詞	
 KKE	かしこいかわいいエリーチカ	名詞	
+Livewithasmile	LIVE with a smile!	名詞	
 Sid	School idol diary	名詞	
 UTXがくいん	UTX学院	名詞	
 UTXがくえん	UTX学園	名詞	
@@ -186,6 +187,7 @@ UTXがくえん	UTX学園	名詞
 ゆめとび	ユメトビ	名詞	
 ゆめなきゆめはゆめじゃない	夢なき夢は夢じゃない	名詞	
 ゆめのとびら	ユメノトビラ	名詞	
+らいぶうぃずあすまいる	LIVE with a smile!	名詞	
 らじおがーでん	RadioGarden	名詞	
 らぶうぃんぐべる	Love wing bell	名詞	
 らぶのべ	ラブノベ	名詞	

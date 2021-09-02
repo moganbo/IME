@@ -12,34 +12,44 @@ Evergreen	Evergreen	名詞
 Firebird	Fire Bird	名詞	
 Flyintothesky	Fly into the sky	名詞	
 Happynyandays	Happy Nyan! Days	名詞	
+Imstill	I'm Still...	名詞	
 Justbelieve	Just Believe!!!	名詞	
 Kakushiaji	Kakushiaji!	名詞	
 Labellapatria	La Bella Patria	名詞	
 Likeitloveit	LIKE IT！LOVE IT！	名詞	
+Lll	L！L！L！	名詞	
+Lovethelifewelive	Love the Life We Live	名詞	
 Lovetriangle	Love Triangle	名詞	
 Loveumyfriend	Love U my friends	名詞	
 Makeupsessionabc	Make-up session ABC	名詞	
 Marchenstar	Märchen Star	名詞	
 Margaret	Margaret	名詞	
+Mazetown	Maze Town	名詞	
 Melody	MELODY	名詞	
+Monstergirls	MONSTER GIRLS	名詞	
 Myownfairytail	My Own Fairy-Tale	名詞	
 Neoskyneomap	NEO SKY, NEO MAP!	名詞	
+Notsad	Not Sad	名詞	
 Poppinup	Poppin' Up!	名詞	
 Powerspot	POWER SPOT!!	名詞	
 Qu4rtz	QU4RTZ	名詞	
+Queendom	Queendom	名詞	
 Saygoodbyなみだ	Say Good-Bye 涙	名詞	
 Singandsmile	Sing & Smile!!	名詞	
 Solituderain	Solitude Rain	名詞	
 Starlight	Starlight	名詞	
 Supernova	SUPER NOVA	名詞	
 Sweeteyes	Sweet Eyes	名詞	
+Swinging	Swinging！	名詞	
 Thesecretnight	THE SECRET NiGHT	名詞	
 Tokimekirunners	TOKIMEKI Runners	名詞	
 Twinkletown	Twinkle Town	名詞	
 Vividworld	VIVID WORLD	名詞	
 Wish	Wish	名詞	
 あいおんのうた	哀温ノ詩	名詞	
+あいむすてぃる	I'm Still...	名詞	
 あうぇいくにんぐぷろみす	Awakening Promise	名詞	
+あおいかなりあ	翠いカナリア	名詞	
 あさかかりん	朝香果林	名詞	
 あずな	A・ZU・NA	名詞	
 あなたのりそうのひろいん	あなたの理想のヒロイン	名詞	
@@ -50,12 +60,14 @@ Wish	Wish	名詞
 うえはらあゆむ	上原歩夢	名詞	
 えゔぁーぐりーん	Evergreen	名詞	
 えまゔぇるで	エマ・ヴェルデ	名詞	
+えるえるえる	L！L！L！	名詞	
 おうさかしずく	桜坂しずく	名詞	
 おーどりー	オードリー	名詞	
 かいかせんげん	開花宣言	名詞	
 かくしあじ	Kakushiaji!	名詞	
 かなた	彼方	名詞	
 かりん	果林	名詞	
+くいーんだむ	Queendom	名詞	
 くおーつ	QU4RTZ	名詞	
 けついのひかり	決意の光	名詞	
 こえつなごうよ	声繋ごうよ	名詞	
@@ -67,6 +79,7 @@ Wish	Wish	名詞
 しょうらんじゅ	鐘嵐珠	名詞	
 しんぐあんどすまいる	Sing & Smile!!	名詞	
 すうぃーとあいず	Sweet Eyes	名詞	
+すうぃんぎんぐ	Swinging！	名詞	
 すーぱーのゔぁ	SUPER NOVA	名詞	
 すたーらいと	Starlight	名詞	
 せいぐっばいなみだ	Say Good-Bye 涙	名詞	
@@ -95,6 +108,7 @@ Wish	Wish	名詞
 にじがさきがくえんすくーるあいどるどうこうかい	虹ヶ咲学園スクールアイドル同好会	名詞	
 ねおすかいねおまっぷ	NEO SKY, NEO MAP!	名詞	
 ねむれるもりにいきたいな	眠れる森に行きたいな	名詞	
+のっとさっど	Not Sad	名詞	
 ばたふらい	Butterfly	名詞	
 はっぴーにゃんでいず	Happy Nyan! Days	名詞	
 ぱわーすぽっと	POWER SPOT!!	名詞	
@@ -103,6 +117,7 @@ Wish	Wish	名詞
 びびっどわーるど	VIVID WORLD	名詞	
 びゅーてぃふるむーんらいと	Beautiful Moonlight	名詞	
 ふぁいあばーど	Fire Bird	名詞	
+ふぉるくろあかんきのうた	フォルクロア ～歓喜の歌～	名詞	
 ふらいいんとぅざすかい	Fly into the sky	名詞	
 ぽっぴんあっぷ	Poppin' Up!	名詞	
 まーがれっと	Margaret	名詞	
@@ -113,9 +128,11 @@ Wish	Wish	名詞
 みらいはーもにー	未来ハーモニー	名詞	
 むてききゅうびりーばー	無敵級*ビリーバー	名詞	
 めいくあっぷせっしょんえーびーしー	Make-up session ABC	名詞	
+めいずたうん	Maze Town	名詞	
 めっちゃごーいんぐ	めっちゃGoing!!	名詞	
 めるへんすたー	Märchen Star	名詞	
 めろでぃー	MELODY	名詞	
+もんすたがーる	MONSTER GIRLS	名詞	
 やがてひとつのものがたり	やがてひとつの物語	名詞	
 ゆう	侑	名詞	
 ゆうあんどあい	友 & 愛	名詞	
@@ -123,8 +140,10 @@ Wish	Wish	名詞
 ゆめがここからはじまるよ	夢がここからはじまるよ	名詞	
 ゆめへのいっぽ	夢への一歩	名詞	
 らいくいっとらぶいっと	LIKE IT！LOVE IT！	名詞	
+らぶざらいふうぃらいぶ	Love the Life We Live	名詞	
 らぶとらいあんぐる	Love Triangle	名詞	
 らぶゆーまいふれんど	Love U my friends	名詞	
 らべっらぱとりあ	La Bella Patria	名詞	
 りな	璃奈	名詞	
+りばーす	R3BIRTH	名詞	
 わんだーらんど	☆ワンダーランド☆	名詞	

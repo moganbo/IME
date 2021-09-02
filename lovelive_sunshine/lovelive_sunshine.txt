@@ -14,6 +14,8 @@ Dancewithminotaurus	Dance with Minotaurus	名詞
 Daydreamwarrior	Daydream Warrior	名詞	
 Dazzkungwhitetown	Dazzling White Town	名詞	
 Deepresonance	Deep Resonance	名詞	
+Deepseacocoon	Deep Sea Cocoon	名詞	
+Dreamycolor	DREAMY COLOR	名詞	
 Dropout	DROPOUT!?	名詞	
 Fantasticdepature	Fantastic Departure!	名詞	
 Futureflight	Future flight	名詞	
@@ -30,6 +32,7 @@ Inthisunstableworld	in this unstable world	名詞
 Jimoaidash	JIMO-AI Dash!	名詞	
 Jumpuphigh	Jump up HIGH!!	名詞	
 Kokoromagicatoz	KOKORO Magic “A to Z”	名詞	
+Kurukurucroller	KU-RU-KU-RU Cruller!	名詞	
 Landingactionyeah	Landing action Yeah!!	名詞	
 Lonelysnowplanet	Lonely Snow Planet	名詞	
 Lonelytuning	LONELY TUNING	名詞	
@@ -40,16 +43,19 @@ Miraiticket	MIRAI TICKET	名詞
 Mistyfrostylove	Misty Frosty Love	名詞	
 Mylisttoyou	“MY LIST” to you!	名詞	
 Mymaitonight	MY舞☆TONIGHT	名詞	
+Namelesslovesong	Nameless Love Song	名詞	
 Nevergivingup	Never giving up!	名詞	
 Newromanticsailors	New Romantic Sailors	名詞	
 Newwindingroad	New winding road	名詞	
 Nextsparkling	Next SPARKLING!!	名詞	
 No10	No.10	名詞	
+Okawarihappylife	OKAWARI Happy life!	名詞	
 Onemoresunshinestory	One More Sunshine Story	名詞	
 Overthenextrainbow	Over The Next Rainbow	名詞	
 Partypartypapapaparty	Party! Party! PaPaPaParty!	名詞	
 Perfectsekai	Perfect SEKAI	名詞	
 Phantomrocketadventure	Phantom Rocket Adventure	名詞	
+Phoenixdance	PHOENIX DANCE	名詞	
 Pianofortemonologue	Pianoforte Monologue	名詞	
 Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞	
 Psのむこうがわ	P.S.の向こう側	名詞	
@@ -57,6 +63,8 @@ Purephrase	PURE PHRASE	名詞
 Redgemwink	RED GEM WINK	名詞	
 Selfcontrol	SELF CONTROL!!	名詞	
 Shadowgatetolove	Shadow gate to love	名詞	
+Shinyracers	Shiny Racers	名詞	
+Shootingstarwarrior	Shooting Star Warrior	名詞	
 Skyjourney	SKY JOURNEY	名詞	
 Smilesmileshipstart	smile smile ship Start!	名詞	
 Stepzerotoone	Step! ZERO to ONE	名詞	
@@ -65,6 +73,8 @@ Thankyoufriends	Thank you, FRIENDS!!	名詞
 Wakeupchallenger	Wake up, Challenger!!	名詞	
 Wakuwakuweek	Waku-Waku-Week!	名詞	
 Waterbluenewworld	WATER BLUE NEW WORLD	名詞	
+Wellgetthenextdream	We‘ll get the next dream!!!	名詞	
+Whistleofrevolution	Whistle of Revolution	名詞	
 Whitefirstlove	WHITE FIRST LOVE	名詞	
 Wonderfulstories	WONDERFUL STORIES	名詞	
 あいうた	愛うた	名詞	
@@ -90,7 +100,10 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 あめいじんぐとらべるでぃーえぬえー	Amazing Travel DNA	名詞	
 ありさ	有紗	名	
 ありしゃ	ありしゃ	人名	
+あるひえいえんみたいに	ある日…永遠みたいに！	名詞	
 あんじゅ	杏樹	名	
+あんすーるえとわーる	An seule étoile	名詞	
+あんすーるえとわーるりとむでて	An seule étoile ～Rythme d'été～	名詞	
 あんちゃん	あんちゃん	人名	
 いなみあんじゅ	伊波杏樹	人名	
 いなみあんじゅのらじおかーてんこーる	伊波杏樹のRadio Curtain Call	名詞	
@@ -98,6 +111,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 いのせんとばーど	INNOCENT BIRD	名詞	
 いんでぃすあんすていぶるわーるど	in this unstable world	名詞	
 いんふぇるのふぇにっくす	インフェルノフェニックス	組織	
+うぃるげっとざねくすとどりーむ	We‘ll get the next dream!!!	名詞	
 うぇいくあっぷちゃれんじゃー	Wake up, Challenger!!	名詞	
 うぉーたーぶるーにゅーわーるど	WATER BLUE NEW WORLD	名詞	
 うらじょ	浦女	名詞	
@@ -105,6 +119,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 うららじ	浦ラジ	名詞	
 おーばーざねくすとれいんぼー	Over The Next Rainbow	名詞	
 おーばーざれいいんぼー	Over The Rainbow	名詞	
+おかわりはっぴーらいふ	OKAWARI Happy life!	名詞	
 おはらまり	小原鞠莉	人名	
 おもいよひとつになれ	想いよひとつになれ	名詞	
 おもひと	想ひと	名詞	
@@ -132,10 +147,11 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 きんみらいはっぴーえんど	近未来ハッピーエンド	名詞	
 きんめだい	金目鯛	名詞	
 くうちゅうれんあいろん	空中恋愛論	名詞	
-ぐーりんぱ	ぐ～りんぱ	組織	
 ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
+ぐーりんぱ	ぐ～りんぱ	組織	
 くにきだはなまる	国木田花丸	人名	
 くらっしゅまいんど	CRASH MIND	名詞	
+くるくるくるーらー	KU-RU-KU-RU Cruller!	名詞	
 くろさわだいや	黒澤ダイヤ	人名	
 くろさわるびぃ	黒澤ルビィ	人名	
 げんきぜんかいでいでいでい	元気全開DAY！DAY！DAY！	名詞	
@@ -145,6 +161,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 こころまじっくえーとぅずぃー	KOKORO Magic "A to Z"	名詞	
 こっとんきゃんでぃえいえいおー	コットンキャンディえいえいおー！	名詞	
 こどくてれぽーと	コドク・テレポート	名詞	
+こばやしあいか	小林愛香	名詞	
 こばやしあいか	小林愛香	人名	
 こばやしあいかのこうかいりはーさる	小林愛香の「公開リハーサル」	名詞	
 こみやありさ	小宮有紗	人名	
@@ -162,6 +179,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 じもあいだっしゅ	JIMO-AI Dash!	名詞	
 じもあいまんたんさまーらいふ	地元愛♡満タン☆サマーライフ	名詞	
 じゃーにーとぅざさんしゃいん	Journey to the Sunshine	名詞	
+しゃいにーれーさー	Shiny Racers	名詞	
 しゃぜきすいえろー	シャゼキス☆イエロー	名詞	
 しゃぜきすゔぁいおれっと	シャゼキス☆ヴァイオレット	名詞	
 しゃぜきすえめらるど	シャゼキス☆エメラルド	名詞	
@@ -178,6 +196,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 しゃろとも	しゃろとも	組織	
 しゃろん	CYaRon	組織	
 じゃんぷあっぷはい	Jump up HIGH!!	名詞	
+しゅーてぃんぐすたーうぉーりあ	Shooting Star Warrior	名詞	
 しゅか	朱夏	名	
 しゅかしゅー	しゅかしゅー	名詞	
 しゅかつうしん	しゅか通信	名詞	
@@ -186,6 +205,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 しょうじょいじょうのこいがしたい	少女以上の恋がしたい	名詞	
 しょうじょこい	少女恋	名詞	
 じんぐるべるがとまらない	ジングルベルがとまらない	名詞	
+すーぱーぷーぼあ	Super-pouvoir	名詞	
 すかいじゃーにー	SKY JOURNEY	名詞	
 すずきあいな	鈴木愛奈	人名	
 すてっぷぜろとぅわん	Step! ZERO to ONE	名詞	
@@ -225,6 +245,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ちか	🍊	名詞	
 つき	月	名	
 つしまよしこ	津島善子	人名	
+でぃーぷしーこくーん	Deep Sea Cocoon	名詞	
 でぃーぷれぞなんす	Deep Resonance	名詞	
 でいでいでい	DDD	名詞	
 でいどり	デイドリ	名詞	
@@ -234,6 +255,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 とつぜんがーる	突然GIRL	名詞	
 とどかないほしだとしても	届かない星だとしても	名詞	
 とどほし	届星	名詞	
+どらごんらいだーず	ドラゴンライダーズ	名詞	
+どりーみーからー	DREAMY COLOR	名詞	
 とりこびと	トリコビト	組織	
 とりこりこ	トリコリコ	名詞	
 とりこりこぷりーず	トリコリコPLEASE!!	名詞	
@@ -248,6 +271,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 なんばーてん	No.10	名詞	
 にゅーろまんてぃっくせいらーず	New Romantic Sailors	名詞	
 にゅーわいんでぃんぐろーど	New winding road	名詞	
+ねーむれすらぶそんぐ	Nameless Love Song	名詞	
 ねくすとすぱーくりんぐ	Next SPARKLING!!	名詞	
 ねばーぎびんぐあっぷ	Never giving up!	名詞	
 ぱーてぃぱーてぃぱぱぱぱーてぃ	Party! Party! PaPaPaParty!	名詞	
@@ -270,14 +294,17 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 ふぁみりあ	Familiar	組織	
 ふぁんたすてぃっくでぱーちゃー	Fantastic Departure!	名詞	
 ふぁんとむろけっとあどべんちゃー	Phantom Rocket Adventure	名詞	
+ふぇにっくすだんす	PHOENIX DANCE	名詞	
 ふゅーちゃーふらいと	Future flight	名詞	
 ぶらいてすとめろでぃー	Brightest Melody	名詞	
 ふりはたあい	降幡愛	人名	
 ふりりん	ふりりん	人名	
 ふりりんはぶんか	ふりりんは文化	名詞	
 ぶれいぶはーとこーすたー	Braveheart Coaster	名詞	
+ほいっするおぶれぼりゅーしょん	Whistle of Revolution	名詞	
 ぼうけんたいぷえーびーしー	冒険Type A, B, C!!	名詞	
 ぼくらのはしってきたみちは	僕らの走ってきた道は…	名詞	
+ほこたてつばさ	タテホコツバサ	名詞	
 ぽっぷす	pops	名詞	
 ほっぷすてっぷわーい	ホップ・ステップ・ワーイ！	名詞	
 ほっぷすとっぷのんすとっぷ	Hop? Stop? Nonstop!	名詞	
@@ -306,6 +333,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 みらちけ	ミラチケ	名詞	
 みらぼく	未来僕	名詞	
 めいずせかい	メイズセカイ	名詞	
+めたもるふぃずむ	メタモルフィズム	名詞	
 もぐこみ	モグコミ	名詞	
 もっとね	もっとね!	名詞	
 ゆうきはどこにきみのむねに	勇気はどこに?君の胸に!	名詞	
@@ -322,8 +350,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 よしこ	👿	名詞	
 よそくふかのうどらいびんぐ	予測不可能Driving!	名詞	
 よぞらはなんでもしってるの	夜空はなんでも知ってるの？	名詞	
-らじおかーてんこーる	Radio Curtain Call	名詞	
 らじおかーてんこーる	ラジオカーテンコール	名詞	
+らじおかーてんこーる	Radio Curtain Call	名詞	
 らぶぱるさー	Love Pulsar	名詞	
 らめるべーゆぼやーじゅ	Le merveilleux VOYAGE	名詞	
 らんあく	ランアク	名詞	
