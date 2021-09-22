@@ -1,15 +1,18 @@
 Awakeningpromise	Awakening Promise	名詞	
 Azuna	A・ZU・NA	名詞	
 Beautifulmoonlight	Beautiful Moonlight	名詞	
+Breakthesystem	Break The System	名詞	
 Butterfly	Butterfly	名詞	
 Chase	CHASE!	名詞	
 Cheerforyou	Cheer for you!!	名詞	
+Diabolicmulier	Diabolic mulier	名詞	
 Dive	DIVE！	名詞	
 Diverdiva	DiverDiva	名詞	
 Dreamlanddreamworld	Dream Land！Dream World！	名詞	
 Dreamwithyou	Dream with You	名詞	
 Evergreen	Evergreen	名詞	
 Firebird	Fire Bird	名詞	
+Firstloveagain	First Love Again	名詞	
 Flyintothesky	Fly into the sky	名詞	
 Happynyandays	Happy Nyan! Days	名詞	
 Imstill	I'm Still...	名詞	
@@ -35,6 +38,7 @@ Powerspot	POWER SPOT!!	名詞
 Qu4rtz	QU4RTZ	名詞	
 Queendom	Queendom	名詞	
 Saygoodbyなみだ	Say Good-Bye 涙	名詞	
+Silentblaze	Silent Blaze	名詞	
 Singandsmile	Sing & Smile!!	名詞	
 Solituderain	Solitude Rain	名詞	
 Starlight	Starlight	名詞	
@@ -42,7 +46,10 @@ Supernova	SUPER NOVA	名詞
 Sweeteyes	Sweet Eyes	名詞	
 Swinging	Swinging！	名詞	
 Thesecretnight	THE SECRET NiGHT	名詞	
+Tobeyourself	TO BE YOURSELF	名詞	
 Tokimekirunners	TOKIMEKI Runners	名詞	
+Toydoll	Toy Doll	名詞	
+Turnitup	Turn it Up!	名詞	
 Twinkletown	Twinkle Town	名詞	
 Vividworld	VIVID WORLD	名詞	
 Wish	Wish	名詞	
@@ -56,8 +63,12 @@ Wish	Wish	名詞
 あなろぐはーと	アナログハート	名詞	
 あにがさき	アニガサキ	名詞	
 あゆむ	歩夢	名詞	
+いえみんじゅ	夜明珠	名詞	
+いえみんじゅ	イエミンジュ	名詞	
+いつだってふぉーゆー	いつだってfor you!	名詞	
 うぃっしゅ	Wish	名詞	
 うえはらあゆむ	上原歩夢	名詞	
+えいえいさー	エイエ戦サー	名詞	
 えゔぁーぐりーん	Evergreen	名詞	
 えまゔぇるで	エマ・ヴェルデ	名詞	
 えるえるえる	L！L！L！	名詞	
@@ -72,7 +83,9 @@ Wish	Wish	名詞
 けついのひかり	決意の光	名詞	
 こえつなごうよ	声繋ごうよ	名詞	
 このえかなた	近江彼方	名詞	
+こんせんとれいと	コンセントレイト！	名詞	
 さいか	祭花-saika-	名詞	
+さいれんとぶれいず	Silent Blaze	名詞	
 ざしーくれっとないと	THE SECRET NiGHT	名詞	
 しおりこ	栞子	名詞	
 じゃすとびりーぶ	Just Believe!!!	名詞	
@@ -86,6 +99,7 @@ Wish	Wish	名詞
 せつな	せつ菜	名詞	
 ぜんそくどりーまー	全速ドリーマー	名詞	
 そりちゅーどれいん	Solitude Rain	名詞	
+たーんいっとあっぷ	Turn it Up!	名詞	
 だいあもんど	ダイアモンド	名詞	
 だいばーでぃーば	DiverDiva	名詞	
 だいぶ	DIVE！	名詞	
@@ -94,9 +108,12 @@ Wish	Wish	名詞
 ちあふぉーゆー	Cheer for you!!	名詞	
 ちぇいす	CHASE!	名詞	
 つながるこねくと	ツナガルコネクト	名詞	
+でぃあぼりっくみゅらー	Diabolic mulier	名詞	
 てれてれぱしー	テレテレパシー	名詞	
 てんのうじりな	天王寺璃奈	名詞	
+といどーる	Toy Doll	名詞	
 とぅいんくるたうん	Twinkle Town	名詞	
+とぅーびーゆあせるふ	TO BE YOURSELF	名詞	
 どきぴぽえもーしょん	ドキピポ☆エモーション	名詞	
 ときめきらんなーず	TOKIMEKI Runners	名詞	
 どりーむうぃずゆー	Dream with You	名詞	
@@ -116,9 +133,11 @@ Wish	Wish	名詞
 ひとりだけなんてえらべないよー	ﾋﾄﾘﾀﾞｹﾅﾝﾃｴﾗﾍﾞﾅｲﾖｰ	名詞	
 びびっどわーるど	VIVID WORLD	名詞	
 びゅーてぃふるむーんらいと	Beautiful Moonlight	名詞	
+ふぁーすとらぶあげいん	First Love Again	名詞	
 ふぁいあばーど	Fire Bird	名詞	
 ふぉるくろあかんきのうた	フォルクロア ～歓喜の歌～	名詞	
 ふらいいんとぅざすかい	Fly into the sky	名詞	
+ぶれいくざしすてむ	Break The System	名詞	
 ぽっぴんあっぷ	Poppin' Up!	名詞	
 まーがれっと	Margaret	名詞	
 まいおうんふぇありーている	My Own Fairy-Tale	名詞	
@@ -134,6 +153,7 @@ Wish	Wish	名詞
 めろでぃー	MELODY	名詞	
 もんすたがーる	MONSTER GIRLS	名詞	
 やがてひとつのものがたり	やがてひとつの物語	名詞	
+やだ	ヤダ！	名詞	
 ゆう	侑	名詞	
 ゆうあんどあい	友 & 愛	名詞	
 ゆうきせつな	優木せつ菜	名詞	
