@@ -1,14 +1,33 @@
+Anniversary	Anniversary	名詞	
 Dancingheartlapapapapa	Dancing Heart La-Pa-Pa-Pa!	名詞	
+Day1	Day1	名詞	
+Dears	Dears	名詞	
+Departure	Departure	名詞	
 Dreamingenergy	Dreaming Energy	名詞	
+Dreamrainbow	Dream Rainbow	名詞	
+Flyershight	Flyer's High	名詞	
 Goingup	GOING UP	名詞	
+Hotpassion	HOT PASSION!!	名詞	
 Liella	Liella!	名詞	
+Livewithasmile	LIVE with a smile!	名詞	
 Liyuu	Liyuu	名詞	
+Memories	Memories	名詞	
+Message	Message	名詞	
+Primary	Primary	名詞	
+Ringing	Ringing!	名詞	
+Shootingvoice	Shooting Voice!!	名詞	
+Starlightprologue	Starlight Prologue	名詞	
 Starttruedreams	START!! True dreams	名詞	
 Sunnypassion	Sunny Passion	名詞	
+Tillsunrise	Till Sunrise	名詞	
 Tinystars	Tiny Stars	名詞	
+Whatawonderfuldream	What a Wonderful Dream!!	名詞	
+あおぞらをまってる	青空を待ってる	名詞	
 あおやまなぎさ	青山なぎさ	名詞	
+あにばーさりー	Anniversary	名詞	
 あらしちさと	嵐千砂都	名詞	
 いちにさん	1.2.3！	名詞	
+うぃっしゅそんぐ	Wish Song	名詞	
 かのん	🎧	名詞	
 くぅくぅ	可可	名詞	
 くぅくぅ	🍦	名詞	
@@ -17,8 +36,10 @@ Tinystars	Tiny Stars	名詞
 さにーぱっしょん	Sunny Passion	名詞	
 さにーぱっしょん	サニーパッション	名詞	
 しぶやかのん	澁谷かのん	名詞	
+しゅーてぃんぐぼいす	Shooting Voice!!	名詞	
 すーぱーすたー	スーパースター!!	名詞	
 すたーととぅるーどりーむ	START!! True dreams	名詞	
+すたーらいとぷろろーぐ	Starlight Prologue	名詞	
 すみれ	💫	名詞	
 たいにーすたーず	Tiny Stars	名詞	
 だからぼくらはならすんだ	だから僕らは鳴らすんだ！	名詞	
@@ -29,25 +50,47 @@ Tinystars	Tiny Stars	名詞
 ちさと	千砂都	名詞	
 ちさと	🐙	名詞	
 ちはや	千颯	名詞	
+でぃあーず	Dears	名詞	
+てぃるさんらいず	Till Sunrise	名詞	
+でいわん	Day1	名詞	
+でぱーちゃー	Departure	名詞	
+とこなつさんしゃいん	常夏☆サンシャイン	名詞	
 どりーみんぐえなじー	Dreaming Energy	名詞	
+どりーむれいんぼー	Dream Rainbow	名詞	
+のんふぃくしょん	ノンフィクション!!	名詞	
+ばいばいしちゃえば	バイバイしちゃえば！？	名詞	
 はじまりはきみのそら	始まりは君の空	名詞	
 はづきれん	葉月恋	名詞	
 ひいらぎまお	柊摩央	名詞	
 ひじりさわゆうな	聖澤悠奈	名詞	
+びねつのわるつ	微熱のワルツ	名詞	
+ぷらいまりー	Primary	名詞	
+ふらいやーずはい	Flyer's High	名詞	
 へあんなすみれ	平安名すみれ	名詞	
 ぺいとんなおみ	ペイトン尚未	名詞	
+ほっとぱっしょん	HOT PASSION!!	名詞	
 まお	摩央	名詞	
+またたきのさきへ	瞬きの先へ	名詞	
 みさきなこ	岬なこ	名詞	
+みずいろのさんでー	水色のSunday	名詞	
+みてろ	みてろ！	名詞	
 みらいはかぜのように	未来は風のように	名詞	
 みらいよほうはれるや	未来予報ハレルヤ！	名詞	
+めっせーじ	Message	名詞	
+めもりーず	Memories	名詞	
 ゆいがおかじょしこうとうがっこう	結ヶ丘女子高等学校	名詞	
 ゆうきまお	結木ゆな	名詞	
 ゆうな	悠奈	名詞	
+ゆにぞん	ユニゾン	名詞	
 よしたけちはや	吉武千颯	名詞	
+らいぶうぃずあすまいる	LIVE with a smile!	名詞	
 らぶらいぶすーぱーすたー	ラブライブ！スーパースター!!	名詞	
 りーゆう	Liyuu	名詞	
 りえら	Liella!	名詞	
+りえらのうた	リエラのうた	名詞	
+りんぎんぐ	Ringing!	名詞	
 れん	恋	名詞	
 れん	☕	名詞	
 わたしのしんふぉにー	私のSymphony	名詞	
+わっとあわんだふるどりーむ	What a Wonderful Dream!!	名詞	
 わんつーすりー	1.2.3！	名詞	
