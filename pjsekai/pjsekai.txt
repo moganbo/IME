@@ -2,15 +2,18 @@
 25じないとこーとで	25時、ナイトコードで。	名詞	
 Baddogs	BAD DOGS	名詞	
 Beateater	Beat Eater	名詞	
+Brandnewday	Brand New Day	名詞	
 Colorofdrops	Color of Drops	名詞	
 Forward	Forward	名詞	
 Glorysteadygo	Glory Steady Go!	名詞	
 Leoneed	Leo/need	名詞	
 Moremorejump	MOREMORE JUMP!	名詞	
 Needle	needLe	名詞	
+Peakypeaky	Peaky Peaky	名詞	
 Projectsekai	Project SEKAI	名詞	
 Projectsekaicolorfulstage	Project SEKAI COLORFUL STAGE	名詞	
 Readysteady	Ready Steady	名詞	
+Stageofsekai	STAGE OF SEKAI	名詞	
 Vividbadsquad	Vivid BAD SQUAD	名詞	
 あいすどろっぷ	アイスドロップ	名詞	
 あいでぃすまいる	アイディスマイル	名詞	
@@ -22,10 +25,12 @@ Vividbadsquad	Vivid BAD SQUAD	名詞
 あきやまみずき	暁山 瑞希	名詞	
 あさひなまふゆ	朝比奈 まふゆ	名詞	
 あずさわこはね	小豆沢 こはね	名詞	
+あらいぶ	alive	名詞	
 あん	杏	名詞	
 あんたいとるど	untitled	名詞	
 いち	1	名詞	
 いちか	一歌	名詞	
+うたかたみらい	泡沫未来	名詞	
 えな	絵名	名詞	
 えな	🌔	名詞	
 おおとりえむ	鳳 えむ	名詞	
@@ -39,37 +44,52 @@ Vividbadsquad	Vivid BAD SQUAD	名詞
 くさなぎねね	草薙 寧々	名詞	
 くやむとかいてみらい	悔やむと書いてミライ	名詞	
 ぐろーりーすてでぃごー	Glory Steady Go!	名詞	
+ぐんじょうさんか	群青賛歌	名詞	
 けいたいれんわ	携帯恋話	名詞	
+さいせい	再生	名詞	
 さき	咲希	名詞	
+じうだす	ジウダス	名詞	
 しずく	雫	名詞	
+しっくおぶはうす	しっくおぶはうす！	名詞	
 しねま	シネマ	名詞	
 しののめあきと	東雲 彰人	名詞	
 しののめえな	東雲 絵名	名詞	
 しほ	志歩	名詞	
 じゃっくぽっとさっどがーる	ジャックポットサッドガール	名詞	
+しょうたいむるーらー	ショウタイム・ルーラー	名詞	
 しらいしあん	白石 杏	名詞	
+すてーじおぶせかい	STAGE OF SEKAI	名詞	
 すてら	ステラ	名詞	
+せかい	セカイ	名詞	
 せかいはまだはじまってすらいない	セカイはまだ始まってすらいない	名詞	
+そうだった	そうだった!!	名詞	
 つかさ	司	名詞	
 てんしのくろーばー	天使のクローバー	名詞	
 てんまさき	天馬 咲希	名詞	
 てんまつかさ	天馬 司	名詞	
 とうや	冬弥	名詞	
+とりころーじゅ	トリコロージュ	名詞	
 とんでもわんだーず	トンデモワンダーズ	名詞	
 にーご	ニーゴ	名詞	
 にーどる	needLe	名詞	
 にじいろすとーりーず	ニジイロストーリーズ	名詞	
+にっこりちょうさたいのてーま	にっこり^^調査隊のテーマ	名詞	
 ねね	寧々	名詞	
+のまど	ノマド	名詞	
 ばっどどっぐす	BAD DOGS	名詞	
 はなさとみのり	花里 みのり	名詞	
+はなをうたう	花を唄う	名詞	
 はるか	遥	名詞	
 はれをまつ	霽れを待つ	名詞	
+ぴーきーぴーきー	Peaky Peaky	名詞	
 びーといーたー	Beat Eater	名詞	
 ひのもりしずく	日野森 雫	名詞	
 ひのもりしほ	日野森 志歩	名詞	
 びびっどばっどすくあっど	Vivid BAD SQUAD	名詞	
 びびばす	ビビバス	名詞	
 ふぉわーど	Forward	名詞	
+ふらいやー	Flyer!	名詞	
+ぶらんどにゅーでい	Brand New Day	名詞	
 ぷろじぇくとせかい	プロジェクトセカイ	名詞	
 ぷろじぇくとせかいからふるすてーじ	プロジェクトセカイ カラフルステージ	名詞	
 ぷろせか	プロセカ	名詞	
@@ -77,9 +97,13 @@ Vividbadsquad	Vivid BAD SQUAD	名詞
 ほしのいちか	星乃 一歌	名詞	
 ぽてとになっていく	potatoになっていく	名詞	
 ほなみ	穂波	名詞	
+まじっくなんばー	magic number	名詞	
+ましんがんどーるぽえむ	マシンガンポエムドール	名詞	
 まふゆ	🌓	名詞	
 みずき	瑞希	名詞	
 みずき	🌘	名詞	
+みらい	ミライ	名詞	
+めたもりぼん	メタモリボン	名詞	
 もあじゃん	モアジャン	名詞	
 もあじゃんぷもあ	モア！ジャンプ！モア！	名詞	
 もあもあじゃんぷ	MOREMORE JUMP!	名詞	
@@ -87,11 +111,15 @@ Vividbadsquad	Vivid BAD SQUAD	名詞
 ももいあいり	桃井 愛莉	名詞	
 ももじゃん	モモジャン	名詞	
 よいさきかなで	宵崎 奏	名詞	
+らすとすこあ	ラストスコア	名詞	
+りゅうせいのぱする	流星のパルス	名詞	
 るい	類	名詞	
 れおに	レオニ	名詞	
 れおにーど	Leo/need	名詞	
 れでぃすてでぃ	Ready Steady	名詞	
 ろうわー	ロウワー	名詞	
+わーるどわいどわんだー	ワールドワイドワンダー	名詞	
+わーわーわーるど	ワーワーワールド	名詞	
 わんすあぽんあどりーむ	ワンスアポンアドリーム	名詞	
 わんだーらんずしょうたいむ	ワンダーランズ×ショウタイム	名詞	
 わんだしょ	ワンダショ	名詞	
