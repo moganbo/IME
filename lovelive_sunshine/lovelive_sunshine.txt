@@ -4,6 +4,7 @@ Aqoursheroes	Aqours☆HEROES	名詞
 Aqourspiratesdesire	Aqours Pirates Desire	名詞	
 Awakenthepower	Awaken the power	名詞	
 Azalea	AZALEA	名詞	
+Banzaidigitaltrippers	BANZAI! digital trippers	名詞	
 Believeagain	Believe again	名詞	
 Bravehartcoaster	Braveheart Coaster	名詞	
 Brightestmelody	Brightest Melody	名詞	
@@ -34,13 +35,16 @@ Jumpuphigh	Jump up HIGH!!	名詞
 Kokoromagicatoz	KOKORO Magic “A to Z”	名詞	
 Kurukurucroller	KU-RU-KU-RU Cruller!	名詞	
 Landingactionyeah	Landing action Yeah!!	名詞	
+Livewithasmile	LIVE with a smile!	名詞	
 Lonelysnowplanet	Lonely Snow Planet	名詞	
 Lonelytuning	LONELY TUNING	名詞	
 Lovepulsar	Love Pulsar	名詞	
+Lovespiraltower	Love Spiral Tower	名詞	
 Marineborderparasol	Marine Border Parasol	名詞	
 Miraclewave	MIRACLE WAVE	名詞	
 Miraiticket	MIRAI TICKET	名詞	
 Mistyfrostylove	Misty Frosty Love	名詞	
+Mottozuttobewithyou	MOTTO-ZUTTO be with you	名詞	
 Mylisttoyou	“MY LIST” to you!	名詞	
 Mymaitonight	MY舞☆TONIGHT	名詞	
 Namelesslovesong	Nameless Love Song	名詞	
@@ -49,9 +53,11 @@ Newromanticsailors	New Romantic Sailors	名詞
 Newwindingroad	New winding road	名詞	
 Nextsparkling	Next SPARKLING!!	名詞	
 No10	No.10	名詞	
+Notalonenothitori	not ALONE not HITORI	名詞	
 Okawarihappylife	OKAWARI Happy life!	名詞	
 Onemoresunshinestory	One More Sunshine Story	名詞	
 Overthenextrainbow	Over The Next Rainbow	名詞	
+Paradisechime	Paradise Chime	名詞	
 Partypartypapapaparty	Party! Party! PaPaPaParty!	名詞	
 Perfectsekai	Perfect SEKAI	名詞	
 Phantomrocketadventure	Phantom Rocket Adventure	名詞	
@@ -61,6 +67,7 @@ Popshartでおどるんだもん	Pops heartで踊るんだもん！	名詞
 Psのむこうがわ	P.S.の向こう側	名詞	
 Purephrase	PURE PHRASE	名詞	
 Redgemwink	RED GEM WINK	名詞	
+Runkakerurun	RUN KAKERU RUN	名詞	
 Selfcontrol	SELF CONTROL!!	名詞	
 Shadowgatetolove	Shadow gate to love	名詞	
 Shinyracers	Shiny Racers	名詞	
@@ -69,6 +76,7 @@ Skyjourney	SKY JOURNEY	名詞
 Smilesmileshipstart	smile smile ship Start!	名詞	
 Stepzerotoone	Step! ZERO to ONE	名詞	
 Strawberrytrapper	Strawberry Trapper	名詞	
+Sukiforyoudoreamforyou	SUKI for you, DREAM for you!	名詞	
 Thankyoufriends	Thank you, FRIENDS!!	名詞	
 Wakeupchallenger	Wake up, Challenger!!	名詞	
 Wakuwakuweek	Waku-Waku-Week!	名詞	
@@ -147,8 +155,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 きんみらいはっぴーえんど	近未来ハッピーエンド	名詞	
 きんめだい	金目鯛	名詞	
 くうちゅうれんあいろん	空中恋愛論	名詞	
-ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 ぐーりんぱ	ぐ～りんぱ	組織	
+ぐーりんぱ	ラブライブ！サンシャイン!! Aqours浦の星女学院RADIO!!!	名詞	
 くにきだはなまる	国木田花丸	人名	
 くらっしゅまいんど	CRASH MIND	名詞	
 くるくるくるーらー	KU-RU-KU-RU Cruller!	名詞	
@@ -161,8 +169,8 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 こころまじっくえーとぅずぃー	KOKORO Magic "A to Z"	名詞	
 こっとんきゃんでぃえいえいおー	コットンキャンディえいえいおー！	名詞	
 こどくてれぽーと	コドク・テレポート	名詞	
-こばやしあいか	小林愛香	名詞	
 こばやしあいか	小林愛香	人名	
+こばやしあいか	小林愛香	名詞	
 こばやしあいかのこうかいりはーさる	小林愛香の「公開リハーサル」	名詞	
 こみやありさ	小宮有紗	人名	
 こわれやすき	コワレヤスキ	名詞	
@@ -207,6 +215,7 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 じんぐるべるがとまらない	ジングルベルがとまらない	名詞	
 すーぱーぷーぼあ	Super-pouvoir	名詞	
 すかいじゃーにー	SKY JOURNEY	名詞	
+すきふぉーゆーどりーむふぉーゆー	SUKI for you, DREAM for you!	名詞	
 すずきあいな	鈴木愛奈	人名	
 すてっぷぜろとぅわん	Step! ZERO to ONE	名詞	
 すととら	ストトラ	名詞	
@@ -268,12 +277,15 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 なつへのとびら	夏への扉	名詞	
 なつへのとびらねばーえんどさまー	夏への扉 Never end ver.	名詞	
 なみだがゆきになるまえに	涙が雪になる前に	名詞	
+なみだじゃない	涙×	名詞	
+なんどだってやくそく	なんどだって約束！	名詞	
 なんばーてん	No.10	名詞	
 にゅーろまんてぃっくせいらーず	New Romantic Sailors	名詞	
 にゅーわいんでぃんぐろーど	New winding road	名詞	
 ねーむれすらぶそんぐ	Nameless Love Song	名詞	
 ねくすとすぱーくりんぐ	Next SPARKLING!!	名詞	
 ねばーぎびんぐあっぷ	Never giving up!	名詞	
+のっとあろーんのっとひとり	not ALONE not HITORI	名詞	
 ぱーてぃぱーてぃぱぱぱぱーてぃ	Party! Party! PaPaPaParty!	名詞	
 ぱーふぇくとせかい	Perfect SEKAI	名詞	
 はじまりろーど	ハジマリロード	名詞	
@@ -284,7 +296,9 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 はみふれ	ハミフレ	名詞	
 はみんぐふれんど	ハミングフレンド	名詞	
 はむりは	ハムリハ	名詞	
+ぱらだいすちゃいむ	Paradise Chime	名詞	
 はりけーんぶろっさむ	ハリケーンブロッサム	名詞	
+ばんざいでじたるとりっぱーず	BANZAI! digital trippers	名詞	
 はんどいんはんど	HiH	名詞	
 ぴあのふぉるてものろーぐ	Pianoforte Monologue	名詞	
 ぴーえすのむこうがわ	P.S.の向こう側	名詞	
@@ -335,7 +349,9 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 めいずせかい	メイズセカイ	名詞	
 めたもるふぃずむ	メタモルフィズム	名詞	
 もぐこみ	モグコミ	名詞	
+もっとずっとびーうぃずゆー	MOTTO-ZUTTO be with you	名詞	
 もっとね	もっとね!	名詞	
+やぁこううんりゅうすい	やあ！行雲流水！？	名詞	
 ゆうきはどこにきみのむねに	勇気はどこに?君の胸に!	名詞	
 ゆうきみ	勇気君	名詞	
 ゆにこーんぶりざーど	ユニコーンブリザード	組織	
@@ -350,11 +366,14 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 よしこ	👿	名詞	
 よそくふかのうどらいびんぐ	予測不可能Driving!	名詞	
 よぞらはなんでもしってるの	夜空はなんでも知ってるの？	名詞	
-らじおかーてんこーる	ラジオカーテンコール	名詞	
+らいぶうぃずあすまいる	LIVE with a smile!	名詞	
 らじおかーてんこーる	Radio Curtain Call	名詞	
+らじおかーてんこーる	ラジオカーテンコール	名詞	
+らぶすぱいらるたわー	Love Spiral Tower	名詞	
 らぶぱるさー	Love Pulsar	名詞	
 らめるべーゆぼやーじゅ	Le merveilleux VOYAGE	名詞	
 らんあく	ランアク	名詞	
+らんかけるらん	RUN KAKERU RUN	名詞	
 らんでぃんぐあくしょんいぇー	Landing action Yeah!!	名詞	
 りあ	理亞	名	
 りかこ	梨香子	名	
@@ -369,5 +388,6 @@ Wonderfulstories	WONDERFUL STORIES	名詞
 わくわくうぃーく	Waku-Waku-Week!	名詞	
 わたなべつき	渡辺月	人名	
 わたなべよう	渡辺曜	人名	
+わんすたー	1STAR	名詞	
 わんだふるすとーりーず	WONDERFUL STORIES	名詞	
 わんもあさんしゃいんすとーりー	One More Sunshine Story	名詞	
