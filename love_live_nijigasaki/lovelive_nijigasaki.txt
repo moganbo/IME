@@ -20,6 +20,7 @@ Justbelieve	Just Believe!!!	名詞
 Kakushiaji	Kakushiaji!	名詞	
 Labellapatria	La Bella Patria	名詞	
 Likeitloveit	LIKE IT！LOVE IT！	名詞	
+Livewithasmile	LIVE with a smile!	名詞	
 Lll	L！L！L！	名詞	
 Lovethelifewelive	Love the Life We Live	名詞	
 Lovetriangle	Love Triangle	名詞	
@@ -145,6 +146,7 @@ Wish	Wish	名詞
 みふねしおりこ	三船栞子	名詞	
 みやしたあい	宮下愛	名詞	
 みらいはーもにー	未来ハーモニー	名詞	
+みらくるすていちゅーん	ミラクル STAY TUNE！	名詞	
 むてききゅうびりーばー	無敵級*ビリーバー	名詞	
 めいくあっぷせっしょんえーびーしー	Make-up session ABC	名詞	
 めいずたうん	Maze Town	名詞	
@@ -160,6 +162,7 @@ Wish	Wish	名詞
 ゆめがここからはじまるよ	夢がここからはじまるよ	名詞	
 ゆめへのいっぽ	夢への一歩	名詞	
 らいくいっとらぶいっと	LIKE IT！LOVE IT！	名詞	
+らいぶうぃずあすまいる	LIVE with a smile!	名詞	
 らぶざらいふうぃらいぶ	Love the Life We Live	名詞	
 らぶとらいあんぐる	Love Triangle	名詞	
 らぶゆーまいふれんど	Love U my friends	名詞	
