@@ -1,9 +1,16 @@
+Emptytrip	Empty trip	名詞	
+Forkintheroad	Fork in the road	名詞	
+Gooddaymrliar	Good day, Mr. Liar	名詞	
+Loudness	Loudness	名詞	
+Timeprogress	Time Progress	名詞	
 あうたーいぐじすたんす	Outer Existance	名詞	
 あおのなつき	青野菜月	名詞	
 あかしっくれこーど	アカシックレコード	名詞	
 あかり	月	名詞	
+あのなつのぼくらへ	あの夏の僕らへ	名詞	
 あのひのやくそく	あの日の約束	名詞	
 あまのさとみ	天野聡美	名詞	
+あもる	アモル	名詞	
 あやめ	彩芽	名詞	
 あんぷらぐ	UNPLUG	名詞	
 あんり	杏梨	名詞	
@@ -16,17 +23,27 @@
 えびすと	エビスト	名詞	
 えむみっくす	MMIX	名詞	
 えらー	Error	名詞	
+えんどげーど	ENDGATE	名詞	
+えんぷてぃとりっぷ	Empty trip	名詞	
 おーばーどらいぶ	オーバードライブ	名詞	
+おおはしあやか	大橋彩香	名詞	
+おぎのはづき	荻野葉月	名詞	
 おそろいさんぽみち	おそろいさんぽ道	名詞	
 おとめでないと	おとめ☆de☆Night	名詞	
 かうんといっとだうん	Count it Down	名詞	
 かぐらあかり	神楽月	名詞	
 かなえるみらい	カナエルミライ	名詞	
+きーぷいっととりる	Keep it Trill	名詞	
 きずなのぽらりす	絆のポラリス	名詞	
 ぎぶみーらぶ	Give Me Love	名詞	
+きみがすき	君が好き。	名詞	
 きみはれもねーど	君はレモネード	名詞	
 きんぎょわかな	金魚わかな	名詞	
+くぅえる	クゥエル	名詞	
+くすのきともり	楠木ともり	名詞	
+ぐっどでいみすたーらいあー	Good day, Mr. Liar	名詞	
 ぐりーんきゃっと	Green Cat.	名詞	
+くれっしぇんどすたいる	cresc. Style	名詞	
 ぐろーうぃずゆー	Grow with You	名詞	
 げんじほたる	源氏ほたる	名詞	
 げんじものがたり	源氏物語	名詞	
@@ -38,17 +55,24 @@
 さいれんとわーるど	Silent World	名詞	
 さくらぎひなた	桜木ひなた	名詞	
 さくらなみだ	サクラ涙	名詞	
+さにーからー	Sunny color	名詞	
 さまーびーと	SUMMER BEAT	名詞	
 さわだみはる	澤田美晴	名詞	
 じぇいるぶれいく	Jailbreak	名詞	
 しゃいにー	Shiny	名詞	
+じゃじゃうまたいふーん	じゃじゃ馬 Typhoon	名詞	
+しゃっとあうと	Shout Out	名詞	
 しゃもと	社本	名詞	
 しゃもとはるか	社本悠	名詞	
 しゅがーしゅがーびー	Sugar SugarBee	名詞	
 しらとりろくされーぬけいこ	白鳥ロクサレーヌ慶子	名詞	
+すーぱーすたー	スーパースター	名詞	
+すがぬまちさ	菅沼千紗	名詞	
 すくーるでぃすこ	スクールディスコ	名詞	
+すたーとざわー	Start the War	名詞	
 すてぃる	Still...	名詞	
 すろーんおぶでぃすぺあー	Throne of Despair	名詞	
+せりざわゆう	芹澤優	名詞	
 せんてひっしょうすまいる	先手必勝スマイル	名詞	
 ぜんぶきみのために	全部、君のために	名詞	
 そらのかなで	空乃かなで	名詞	
@@ -57,8 +81,12 @@
 だいなまいと	DYNAMITE	名詞	
 たいにーりとるれたー	Tiny little letter	名詞	
 だいぶいんざふゅーちゃー	Dive in the Future	名詞	
+たいむぷろぐれす	Time Progress	名詞	
 たちばなあやめ	橘彩芽	名詞	
+たちばなりか	立花理香	名詞	
+たなかみなみ	田中美海	名詞	
 つゔぁい	2_wEi	名詞	
+つーらうらいくあふーる	2 Laugh like a FOOL	名詞	
 てぃあどろっぷ	Teardrop	名詞	
 でいず	Days	名詞	
 でぃすたんす	Distance	名詞	
@@ -71,6 +99,7 @@
 とわえもえ	Toi et Moi	名詞	
 なむ	Numb	名詞	
 はーととぅーはーと	Heart 2 Heart	名詞	
+ばいとあびっと	Bite a bit	名詞	
 ばっく	B.A.C	名詞	
 はつこいちぇりーぶろっさむ	初恋チェリーブロッサム	名詞	
 はにーぷらねっと	8/pLanet!!	名詞	
@@ -81,17 +110,25 @@
 びーあらいぶ	Be alive	名詞	
 ぴおうすばれっと	Pious Bullets	名詞	
 ひすとりー	History	名詞	
+びぶりおん	BIBLION	名詞	
 ひみつのへやのおんなのこ	秘密の部屋の女の子	名詞	
 ひめさきあんり	姫咲杏梨	名詞	
+ひろいっく	Heroic	名詞	
 ふぁじーんうぉんきー	Fuzzy N' Wonky	名詞	
 ふぁんたじあ	ファンタジア	名詞	
+ふぃくしょん	fiction	名詞	
+ふぉーくいんざろーど	Fork in the road	名詞	
 ふらっふぃーばるーん	Fluffy Balloon	名詞	
+ぶらんにゅーでいず	Brand New Days	名詞	
 ぶるーむーん	BLUE MOON	名詞	
 ぷれしゃすのーつ	Precious Notes	名詞	
+ぶれっしんぐあふたーかたくりずむ	Blessing After Cataclysm	名詞	
 ぷろろーぐふぁっくゆーおーる	Prologue -F**K YOU ALL-	名詞	
 ふわりあるたいむ	ふわりあるたいむ	名詞	
 ぺいん	Pain - pain	名詞	
 べーすめんと	basement	名詞	
+べる	ベル	名詞	
+ぺんでゅらむ	Pendulum	名詞	
 ぼーいふれんど	BoyFriend	名詞	
 ほーむえいく	Homeache	名詞	
 ほしみやゆきな	星宮ゆきな	名詞	
@@ -99,15 +136,20 @@
 まいなす	Minus	名詞	
 みかづきどりーむ	三日月どりーむ	名詞	
 みなせすずね	水瀬鈴音	名詞	
+みらー	MIЯROR	名詞	
 めい	メイ	名詞	
 やましたななみ	山下七海	名詞	
+ゆーとぴあ	UTOPIA	名詞	
 よしいあやみ	吉井彩実	名詞	
 よしおかみさき	吉岡美咲	名詞	
 よしむらななみ	吉村那奈美	名詞	
+らうどねす	Loudness	名詞	
 らぴっどろっく	RapidRock	名詞	
 らぶへいと	LOVE HATE	名詞	
 らぶりーさまー	Lovely Summer	名詞	
+りたーんぜろ	Return Zer0;	名詞	
 りめんばー	Remenber	名詞	
 るーてぃんぐふぉーゆー	Rooting for You	名詞	
+れがりあ	REGALIA	名詞	
 ろすといんでーた	Lost in data	名詞	
 わきあずみ	和氣あず未	名詞	
