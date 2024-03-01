@@ -1,4 +1,5 @@
 Awoke	AWOKE	名詞	
+Colorfulness	Colorfulness	名詞	
 Dearmyfuture	Dear my future	名詞	
 Deepness	DEEPNESS	名詞	
 Dreambelievers	Dream Believers	名詞	
@@ -11,6 +12,7 @@ Linktothefuture	Link to the FUTURE	名詞
 Miragevoyage	Mirage Voyage	名詞	
 Mixshake	Mix shake!!	名詞	
 Onyourmark	On your mark	名詞	
+Pleasurefeather	Pleasure Feather	名詞	
 Reflectioninthemirror	Reflection in the mirror	名詞	
 Sparklyspot	Sparkly Spot	名詞	
 Takeitover	Take It Over	名詞	
@@ -31,6 +33,8 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 おとむねこずえ	乙宗 梢	名詞	
 おんゆあまーく	On your mark	名詞	
 かほ	花帆	名詞	
+かほめぐじぇらーと	かほめぐ♡じぇら～と	名詞	
+からふるねす	Colorfulness	名詞	
 かわいいのすすめ	Kawaii no susume	名詞	
 かんかんこなちのみらくらたいきしつらじお	かんかん＆こなちのみらくら待機室ラジオ	名詞	
 かんかんこなちのみらくらほしゅうしつらじお	かんかん＆こなちのみらくら補習室ラジオ	名詞	
@@ -52,6 +56,7 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 すけーぷごーと	スケイプゴート	名詞	
 すぱーくりーすぽっと	Sparkly Spot	名詞	
 すりーずぶーけ	スリーズブーケ	名詞	
+すりぶ	スリブ	名詞	
 せいしゅんのりんかく	青春の輪郭	名詞	
 せーのではすのそら	せーので！はすのそら	名詞	
 せんぺんばんか	千変万華	名詞	
@@ -67,6 +72,7 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 とらじっくどろっぷす	Tragic Drops	名詞	
 どりーむびりーばーず	Dream Believers	名詞	
 とりっくあんどきゅーと	Trick ＆ Cute	名詞	
+どるけ	ドルケ	名詞	
 どるけすとら	DOLLCHESTRA	名詞	
 なつめきぺいん	夏めきペイン	名詞	
 にれいのぞみ	楡井希実	名詞	
@@ -74,10 +80,13 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 のなかここな	野中ここな	名詞	
 のんふぃくしょんひーろー	ノンフィクションヒーローショー	名詞	
 はくちゅーあらもーど	ハクチューアラモード	名詞	
+はす	🪷	名詞	
+はすのきゅうじつ	蓮ノ休日	名詞	
 はすのそら	蓮ノ空	名詞	
 はすのそらじょがいくいんすくーるあいどるくらぶ	蓮ノ空女学院スクールアイドルクラブ	名詞	
 はすのそらじょがくいん	蓮ノ空女学院	名詞	
 はすのそらのことすきすきくらぶのみなさん	蓮ノ空のこと好き好きクラブの皆さん	名詞	
+はっぴーしじょうしゅぎ	ハッピー至上主義！	名詞	
 はなみやにいな	花宮初奈	名詞	
 ぱられるだんさー	パラレルダンサー	名詞	
 ひのしたかほ	日野下 花帆	名詞	
@@ -85,10 +94,12 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 ふぇすらいぶ	Fes×LIVE	名詞	
 ふぉーちゅんむーびー	フォーチュンムービー	名詞	
 ふじしまめぐみ	藤島 慈	名詞	
+ぷれじゃーふぇざー	Pleasure Feather	名詞	
 ほりでぃほりでぃ	Holiday∞Holiday	名詞	
 みっくすしぇいく	Mix shake!!	名詞	
 みらーじゅぼやーじゅ	Mirage Voyage	名詞	
 みらくらぱーく	みらくらぱーく！	名詞	
+みらぱ	みらぱ	名詞	
 むらのさやか	村野 さやか	名詞	
 めぐみ	慈	名詞	
 やっぷやっぷやっぷ	Yup! Yup! Yup!	名詞	
@@ -100,11 +111,5 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 りんくら	リンクラ	名詞	
 りんくらいくらぶらいぶ	Link!Like!ラブライブ!	名詞	
 るりの	瑠璃乃	名詞	
-れがーと	Legato	名詞	
-すりぶ	スリブ	名詞	
-どるけ	ドルケ	名詞	
-みらぱ	みらぱ	名詞	
-はす	🪷	名詞	
-かほめぐじぇらーと	かほめぐ♡じぇら～と	名詞	
 るりのとゆかいなつづりたち	るりのとゆかいなつづりたち	名詞	
-はすのきゅうじつ	蓮ノ休日	名詞	
+れがーと	Legato	名詞	
