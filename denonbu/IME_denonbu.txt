@@ -1,5 +1,6 @@
 Agentcodeblue	Agent Code:BLUE(Prod. MY NEW GEAR)	名詞	
-Agentcodeblue	Agent CODE:BLUE	名詞	
+Agentcodeblue	Agent Code:BLUE	名詞	
+Ai	Ai	名詞	
 Ai	Ai	名詞	
 Anti	Anti (Prod. NUU$HI)	名詞	
 Anti	Anti	名詞	
@@ -48,6 +49,8 @@ Handover	Hand Over (Prod. TEMPLIME)	名詞
 Handover	Hand Over	名詞	
 Hyperbass	Hyper Bass (feat. Yunomi)	名詞	
 Hyperbass	Hyper Bass	名詞	
+Hz254	Hz254 prod. MY NEW GEAR	名詞	
+Hz254	Hz254	名詞	
 Iam	IAM (feat. Shogo&早川博隆)	名詞	
 Iam	IAM	名詞	
 Infinitecolour	Infinite Colour (feat. ミディ)	名詞	
@@ -78,11 +81,13 @@ Midnighttown	MIDNIGHT TOWN	名詞
 Mistylove	Misty Love (Prod. ハレトキドキ)	名詞	
 Mistylove	Misty Love	名詞	
 Mone	Mone	名詞	
+Mumin	mumin	名詞	
 Musicismagic	MUSIC IS MAGIC	名詞	
 Mystar	MY STAR(feat.KURANTORION&toyo hiroshi)	名詞	
 Mystar	MY STAR	名詞	
 Nanairostage	NANAIRO STAGE (Prod. YUC'e)	名詞	
 Nanairostage	NANAIRO STAGE	名詞	
+Nanimono	NANIMONO	名詞	
 Nda	NDA	名詞	
 Neucom	NEUCOM	名詞	
 Newfrontier	NEW FRONTIER!	名詞	
@@ -92,6 +97,9 @@ Noa	Noa	名詞
 Nomore	No More (feat.Rheason Love & Tomoyuki Hirakawa)	名詞	
 Nomore	No More	名詞	
 Omatsurisoul	OMATSURI SOUL	名詞	
+Operationa	Operation A ~作戰A~ prod. MY NEW GEAR	名詞	
+Operationa	Operation A ~作戰A~	名詞	
+Ourname	our name	名詞	
 Phycooo	pHyCooo	名詞	
 Platinumwhite	Platinum White (Prod. Hiroshi Okubo)	名詞	
 Platinumwhite	Platinum White	名詞	
@@ -110,6 +118,7 @@ Redsoundvenus	RE/D SOUND VENUS (Prod. MY NEW GEAR)	名詞
 Redsoundvenus	RE D/SOUND VENUS	名詞	
 Reign	REIGN (feat. AZK & Toki)	名詞	
 Reign	REIGN	名詞	
+Remltoshine	REMLtoSHINE	名詞	
 Resist	Resist	名詞	
 Reverseedge	Reverse Edge	名詞	
 Shininglights	Shining Lights (feat. PSYQUI)	名詞	
@@ -147,6 +156,7 @@ Whoami	Who am I	名詞
 Yammy	yAmmy	名詞	
 Yuna	Yuna	名詞	
 あい	Ai	名詞	
+あい	Ai	名詞	
 あいあい	ぁぃぁぃ	名詞	
 あいあむ	IAM (feat. Shogo&早川博隆)	名詞	
 あいあむ	IAM	名詞	
@@ -171,6 +181,7 @@ Yuna	Yuna	名詞
 あべみしゃくじまや	安倍=シャクジ=摩耶	名詞	
 あまねみほ	天音 みほ	名詞	
 あめむらねり	飴村 音凛	名詞	
+あわーねーむ	our name	名詞	
 あんだーかばー	UNDERCOVER (feat. Shinpei Nasuno)	名詞	
 あんだーかばー	UNDERCOVER	名詞	
 あんち	Anti (Prod. NUU$HI)	名詞	
@@ -204,9 +215,12 @@ Yuna	Yuna	名詞
 えま	笑万	名詞	
 えめす	emeth by DC Mizey	名詞	
 えめす	emeth	名詞	
+えもーしょなるどっとねっと	エモーショナルドットネット	名詞	
 おおがみまとい	大神 纏	名詞	
 おおもりにちか	大森 日雅	名詞	
 おび	帯	名詞	
+おぺれーしょんえー	Operation A ~作戰A~ prod. MY NEW GEAR	名詞	
+おぺれーしょんえー	Operation A ~作戰A~	名詞	
 おまつりそうる	OMATSURI SOUL	名詞	
 ががれっか	雅賀 烈賀	名詞	
 かずね	和音	名詞	
@@ -235,6 +249,8 @@ Yuna	Yuna	名詞
 くろやなぎあいり	畔柳 愛里	名詞	
 こいわずらい	KOI WAZURAI (feat. OHTORA & maeshima soshi)	名詞	
 こいわずらい	KOI WAZURAI	名詞	
+こうはだりふれくしょん	光波打Reflection prod. MY NEW GEAR	名詞	
+こうはだりふれくしょん	光波打Reflection	名詞	
 ごーいんぐ	going…	名詞	
 ここしゃねる	ココ・シャネル	名詞	
 こさかいゆりえ	小坂井 祐莉絵	名詞	
@@ -338,6 +354,7 @@ Yuna	Yuna	名詞
 なかむらさんそ	中村 さんそ	名詞	
 なないろすてーじ	NANAIRO STAGE (Prod. YUC'e)	名詞	
 なないろすてーじ	NANAIRO STAGE	名詞	
+なにもの	NANIMONO	名詞	
 にゅーこむ	NEUCOM	名詞	
 にゅーこむ	ニューコム	名詞	
 にゅーふろんてぃあ	NEW FRONTIER!	名詞	
@@ -399,6 +416,8 @@ Yuna	Yuna	名詞
 ぺとりこーるをわたって	ペトリコールを渡って	名詞	
 べるか	ベルカ (feat. ミフメイ)	名詞	
 べるか	ベルカ	名詞	
+へるつにーごーよん	Hz254 prod. MY NEW GEAR	名詞	
+へるつにーごーよん	Hz254	名詞	
 ほうおうかりん	鳳凰 火凛	名詞	
 ほしかわさら	星川 サラ	名詞	
 ぽじてぃぶすいっち	ポジティブスイッチ	名詞	
@@ -425,6 +444,7 @@ Yuna	Yuna	名詞
 みるきーたいむらいん	ミルキータイムライン	名詞	
 むちゅうにちゅちゅちゅちゅーにんぐあっぷ	夢中にちゅ・ちゅ・ちゅ・ちゅーにんぐあっぷ!(Prod. MOSAIC.WAV)	名詞	
 むちゅうにちゅちゅちゅちゅーにんぐあっぷ	夢中にちゅ・ちゅ・ちゅ・ちゅーにんぐあっぷ!	名詞	
+むっみん	mumin	名詞	
 めいくさむのいず	Make Some Noise (feat.オタユキ, Belex)	名詞	
 めいくさむのいず	Make Some Noise	名詞	
 めたもるふぉしす	メタモルフォシス	名詞	
@@ -445,6 +465,7 @@ Yuna	Yuna	名詞
 りこ	Lico	名詞	
 りばーすえっじ	Reverse Edge	名詞	
 りむる	りむる	名詞	
+りむるとぅしゃいん	REMLtoSHINE	名詞	
 りんね	凜音	名詞	
 るきあ	ルキア	名詞	
 れい	Ray	名詞	
