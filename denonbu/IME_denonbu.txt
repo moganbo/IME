@@ -50,6 +50,8 @@ Hyperbass	Hyper Bass (feat. Yunomi)	名詞
 Hyperbass	Hyper Bass	名詞	
 Iam	IAM (feat. Shogo&早川博隆)	名詞	
 Iam	IAM	名詞	
+Infinitecolour	Infinite Colour (feat. ミディ)	名詞	
+Infinitecolour	Infinite Colour	名詞	
 Inmyworld	In my world (Prod. KOTONOHOUSE)	名詞	
 Inmyworld	In my world	名詞	
 Invertedpyramid	Inverted Pyramid (Prod. KOTONOHOUSE)	名詞	
@@ -64,7 +66,6 @@ Letmeknow	Let Me Know (feat. Masayoshi Iimori)	名詞
 Letmeknow	Let Me Know	名詞	
 Letslaviva	Let's La Viva!（feat.宇田川 翔）	名詞	
 Letslaviva	Let's La Viva!	名詞	
-Lico	Lico	名詞	
 Lico	Lico	名詞	
 Lovemeharder	Love me harder (feat. Shogo&早川博隆)	名詞	
 Lovemeharder	Love me harder	名詞	
@@ -102,6 +103,8 @@ Preciousnight	PRECIOUS NIGHT (Prod.ハレトキドキ)	名詞
 Preciousnight	PRECIOUS NIGHT	名詞	
 Princessmemeism	Princess Memeism (Prod. Snail's House)	名詞	
 Princessmemeism	Princess Memeism	名詞	
+Putapuzzle	Put a puzzle (Prod. Nor)	名詞	
+Putapuzzle	Put a puzzle	名詞	
 Ray	Ray	名詞	
 Redsoundvenus	RE/D SOUND VENUS (Prod. MY NEW GEAR)	名詞	
 Redsoundvenus	RE D/SOUND VENUS	名詞	
@@ -186,6 +189,8 @@ Yuna	Yuna	名詞
 いるしおん	イルシオン	名詞	
 いんばーてっどぴらみっど	Inverted Pyramid (Prod. KOTONOHOUSE)	名詞	
 いんばーてっどぴらみっど	Inverted Pyramid	名詞	
+いんふぃにっとからー	Infinite Colour (feat. ミディ)	名詞	
+いんふぃにっとからー	Infinite Colour	名詞	
 いんまいわーるど	In my world (Prod. KOTONOHOUSE)	名詞	
 いんまいわーるど	In my world	名詞	
 うぇあーいずざらぶ	Where Is The Love (feat. Shogo&早川博隆)	名詞	
@@ -371,6 +376,8 @@ Yuna	Yuna	名詞
 ふぁいんどみー	Find Me	名詞	
 ふーあむあい	Who am I	名詞	
 ふぇいばりっとでいず	Favorite Days	名詞	
+ぷっとあぱずる	Put a puzzle (Prod. Nor)	名詞	
+ぷっとあぱずる	Put a puzzle	名詞	
 ふゅーちゃー	Future (feat. ミディ)	名詞	
 ふゅーちゃー	Future	名詞	
 ぷらちなむほわいと	Platinum White (Prod. Hiroshi Okubo)	名詞	
@@ -404,6 +411,7 @@ Yuna	Yuna	名詞
 まにまに	Mani Mani(Prod. TAKU INOUE)	名詞	
 まにまに	Mani Mani	名詞	
 まや	摩耶	名詞	
+まれびと	稀びと	名詞	
 みずかみひな	水上 雛	名詞	
 みすてぃらぶ	Misty Love (Prod. ハレトキドキ)	名詞	
 みすてぃらぶ	Misty Love	名詞	
@@ -434,7 +442,6 @@ Yuna	Yuna	名詞
 よしだりんね	吉田 凜音	名詞	
 らぶみーはーだー	Love me harder (feat. Shogo&早川博隆)	名詞	
 らぶみーはーだー	Love me harder	名詞	
-りこ	Lico	名詞	
 りこ	Lico	名詞	
 りばーすえっじ	Reverse Edge	名詞	
 りむる	りむる	名詞	
