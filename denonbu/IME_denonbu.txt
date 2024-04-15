@@ -24,6 +24,9 @@ Ct	Ct	名詞
 Distortion	Distortion (feat. Yunomi)	名詞	
 Distortion	Distortion	名詞	
 Dive	DIVE	名詞	
+Diveout	Dive Out	名詞	
+Divergenceacademy	Divergence Academy	名詞	
+Divermy	Divermy	名詞	
 Doyouevendj	Do You Even DJ? (feat. Neko Hacker)	名詞	
 Doyouevendj	Do You Even DJ?	名詞	
 Doyouevendj2nd	Do You Even DJ? 2nd (feat. Neko Hacker)	名詞	
@@ -61,10 +64,12 @@ Invertedpyramid	Inverted Pyramid (Prod. KOTONOHOUSE)	名詞
 Invertedpyramid	Inverted Pyramid	名詞	
 Junglewahhoi	JUNGLE WAHHOI (Prod. YUC'e)	名詞	
 Junglewahhoi	JUNGLE WAHHOI	名詞	
+JUNGO	JUNGO	名詞	
 Kabuki03	KABUKI 03	名詞	
 Kingazab	King A Zab	名詞	
 Koiwazurai	KOI WAZURAI (feat. OHTORA & maeshima soshi)	名詞	
 Koiwazurai	KOI WAZURAI	名詞	
+KONA	KONA	名詞	
 Letmeknow	Let Me Know (feat. Masayoshi Iimori)	名詞	
 Letmeknow	Let Me Know	名詞	
 Letslaviva	Let's La Viva!（feat.宇田川 翔）	名詞	
@@ -78,6 +83,7 @@ Manimani	Mani Mani(Prod. TAKU INOUE)	名詞
 Manimani	Mani Mani	名詞	
 Midnighttown	MIDNIGHT TOWN (Prod. AmamiyaMaako)	名詞	
 Midnighttown	MIDNIGHT TOWN	名詞	
+MILIA	MILIA	名詞	
 Mistylove	Misty Love (Prod. ハレトキドキ)	名詞	
 Mistylove	Misty Love	名詞	
 Mone	Mone	名詞	
@@ -113,6 +119,7 @@ Princessmemeism	Princess Memeism (Prod. Snail's House)	名詞
 Princessmemeism	Princess Memeism	名詞	
 Putapuzzle	Put a puzzle (Prod. Nor)	名詞	
 Putapuzzle	Put a puzzle	名詞	
+RARA	RARA	名詞	
 Ray	Ray	名詞	
 Redsoundvenus	RE/D SOUND VENUS (Prod. MY NEW GEAR)	名詞	
 Redsoundvenus	RE D/SOUND VENUS	名詞	
@@ -121,6 +128,7 @@ Reign	REIGN	名詞
 Remltoshine	REMLtoSHINE	名詞	
 Resist	Resist	名詞	
 Reverseedge	Reverse Edge	名詞	
+RIRI	RIRI	名詞	
 Shininglights	Shining Lights (feat. PSYQUI)	名詞	
 Shininglights	Shining Lights	名詞	
 Signal	SIGNAL (Prod. MY NEW GEAR)	名詞	
@@ -154,6 +162,7 @@ Whereisthelove	Where Is The Love (feat. Shogo&早川博隆)	名詞
 Whereisthelove	Where Is The Love	名詞	
 Whoami	Who am I	名詞	
 Yammy	yAmmy	名詞	
+YOO	YOO	名詞	
 Yuna	Yuna	名詞	
 あい	Ai	名詞	
 あい	Ai	名詞	
@@ -164,6 +173,8 @@ Yuna	Yuna	名詞
 あいどるばーさーかー	アイドル狂戦士	名詞	
 あいどるぶれいくおーる	アイドル Break All (feat. IOSYS)	名詞	
 あいどるぶれいくおーる	アイドル Break All	名詞	
+あおいらら	碧 らら	名詞	
+あおいりり	碧 りり	名詞	
 あき	煌	名詞	
 あきな	秋奈	名詞	
 あきば	アキバ	名詞	
@@ -209,6 +220,7 @@ Yuna	Yuna	名詞
 うえすとさいどふぇのめのん	West Side Phenomenon	名詞	
 うさぎとかめ	ウサギとカメ (Prod. PARKGOLF)	名詞	
 うさぎとかめ	ウサギとカメ	名詞	
+うしおみりあ	汐 みりあ	名詞	
 えーじぇんとこーどぶるー	Agent Code:BLUE(Prod. MY NEW GEAR)	名詞	
 えーじぇんとこーどぶるー	Agent CODE:BLUE	名詞	
 えぬでぃーえー	NDA	名詞	
@@ -252,6 +264,8 @@ Yuna	Yuna	名詞
 ごーいんぐ	going…	名詞	
 ここしゃねる	ココ・シャネル	名詞	
 こさかいゆりえ	小坂井 祐莉絵	名詞	
+こな	KONA	名詞	
+こな	こな	名詞	
 こみやありさ	小宮 有紗	名詞	
 さいこー	pHyCooo	名詞	
 さいはっけんあきばたんぼう	再発見!アキバ探訪☆(Prod.Kijibato)	名詞	
@@ -279,6 +293,7 @@ Yuna	Yuna	名詞
 しゃいにんぐらいつ	Shining Lights	名詞	
 じゃんぐるわっほい	JUNGLE WAHHOI (Prod. YUC'e)	名詞	
 じゃんぐるわっほい	JUNGLE WAHHOI	名詞	
+じゅんご	JUNGO	名詞	
 しょうじももこ	東海林 桃々子	名詞	
 しろかねあき	白金 煌	名詞	
 しろぷすあるふぁ	シロプスα (feat. 安藤啓希)	名詞	
@@ -307,7 +322,11 @@ Yuna	Yuna	名詞
 そとかんだぶんげいこうこう	外神田文芸高校	名詞	
 そのた	SONOTA	名詞	
 たいがるきあ	大賀 ルキア	名詞	
+だいばーじぇんすあかでみー	Divergence Academy	名詞	
+だいばえりあ	ダイバエリア	名詞	
+だいばみー	Divermy	名詞	
 だいぶ	DIVE	名詞	
+だいぶあうと	Dive Out	名詞	
 たからもの	タカラモノ(Prod. picco)	名詞	
 たからもの	タカラモノ	名詞	
 たっちみー	touch me (feat. Kakeru)	名詞	
@@ -350,6 +369,7 @@ Yuna	Yuna	名詞
 ないとふらいんぐ	Night Flying	名詞	
 なかむらかのん	中村 花音	名詞	
 なかむらさんそ	中村 さんそ	名詞	
+なぎさこな	渚 こな	名詞	
 なないろすてーじ	NANAIRO STAGE (Prod. YUC'e)	名詞	
 なないろすてーじ	NANAIRO STAGE	名詞	
 なにもの	NANIMONO	名詞	
@@ -431,6 +451,7 @@ Yuna	Yuna	名詞
 まにまに	Mani Mani	名詞	
 まや	摩耶	名詞	
 まれびと	稀びと	名詞	
+みさきよう	岬 よう	名詞	
 みずかみひな	水上 雛	名詞	
 みすてぃらぶ	Misty Love (Prod. ハレトキドキ)	名詞	
 みすてぃらぶ	Misty Love	名詞	
@@ -440,6 +461,8 @@ Yuna	Yuna	名詞
 みなとしろかねじょがくいん	港白金女学院	名詞	
 みみと	美々兎	名詞	
 みゅーじっくいずまじっく	MUSIC IS MAGIC	名詞	
+みりあ	MILIA	名詞	
+みりあ	みりあ	名詞	
 みるきーたいむらいん	ミルキータイムライン (Prod. Nor)	名詞	
 みるきーたいむらいん	ミルキータイムライン	名詞	
 むちゅうにちゅちゅちゅちゅーにんぐあっぷ	夢中にちゅ・ちゅ・ちゅ・ちゅーにんぐあっぷ!(Prod. MOSAIC.WAV)	名詞	
@@ -455,17 +478,24 @@ Yuna	Yuna	名詞
 やけざけ	焼ケ鮭	名詞	
 やなみれいん	八波 零音	名詞	
 やぶきまお	矢吹 真央	名詞	
+やましたななみ	山下 七海	名詞	
 やみー	yAmmy	名詞	
 ゆな	Yuna	名詞	
 よあけのあんせむ	夜明けのアンセム (Prod. 雄之助)	名詞	
 よあけのあんせむ	夜明けのアンセム	名詞	
+よう	YOO	名詞	
+よう	よう	名詞	
 よしだりんね	吉田 凜音	名詞	
 らぶみーはーだー	Love me harder (feat. Shogo&早川博隆)	名詞	
 らぶみーはーだー	Love me harder	名詞	
+らら	RARA	名詞	
+らら	らら	名詞	
 りこ	Lico	名詞	
 りばーすえっじ	Reverse Edge	名詞	
 りむる	りむる	名詞	
 りむるとぅしゃいん	REMLtoSHINE	名詞	
+りり	RIRI	名詞	
+りり	りり	名詞	
 りんね	凜音	名詞	
 るきあ	ルキア	名詞	
 れい	Ray	名詞	
