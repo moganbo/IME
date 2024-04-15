@@ -249,8 +249,6 @@ Yuna	Yuna	名詞
 くろやなぎあいり	畔柳 愛里	名詞	
 こいわずらい	KOI WAZURAI (feat. OHTORA & maeshima soshi)	名詞	
 こいわずらい	KOI WAZURAI	名詞	
-こうはだりふれくしょん	光波打Reflection prod. MY NEW GEAR	名詞	
-こうはだりふれくしょん	光波打Reflection	名詞	
 ごーいんぐ	going…	名詞	
 ここしゃねる	ココ・シャネル	名詞	
 こさかいゆりえ	小坂井 祐莉絵	名詞	
@@ -387,6 +385,8 @@ Yuna	Yuna	名詞
 びーとみー	Beat Me! (feat. kamome sano)	名詞	
 びーとみー	Beat Me!	名詞	
 ひかり	ヒカリ	名詞	
+ひかりなみうつりふれくしょん	光波打Reflection prod. MY NEW GEAR	名詞	
+ひかりなみうつりふれくしょん	光波打Reflection	名詞	
 ひだかれいな	日高 零奈	名詞	
 ひな	雛	名詞	
 ふぁいんどみー	Find Me (feat. ミディ)	名詞	
