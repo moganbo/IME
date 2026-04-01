@@ -44,6 +44,7 @@ Tragicdrops	Tragic Drops	名詞
 Trickandcute	Trick ＆ Cute	名詞	
 Veryverycoconatu	Very! Very! COCO夏っ	名詞	
 Withmeets	With×MEETS	名詞	
+Withstation	With×STATION	名詞	
 Yupyupyup	Yup! Yup! Yup!	名詞	
 あいしい	アイシイ	名詞	
 あいでんてぃてぃ	アイデンティティ	名詞	
@@ -67,6 +68,7 @@ Yupyupyup	Yup! Yup! Yup!	名詞
 いったん	いったん	名詞	
 いつでもいつまでも	いつでも、いつまでも	名詞	
 いまかこみらいのさんげんしょく	今、過去、未来の三原色	名詞	
+うぃずすてーしょん	With×STATION	名詞	
 うぃずみーつ	With×MEETS	名詞	
 えいえんのゆーふぉりあ	永遠のEuphoria	名詞	
 えーでりーと	Edelied	名詞	
